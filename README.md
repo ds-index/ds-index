@@ -1,23 +1,24 @@
 <h1 align="center">Hi there 👋, I'm ArMan Darsanj </h1>
-<h3 align="center">Full-Stack Developer | .NET Core & React | DevOps & Cloud Enthusiast ☁️</h3>
+<h3 align="center">Software Engineer | .NET | DevOps & Cloud Enthusiast ☁️</h3>
 
 ---
 
 🚀 Passionate about building high-performance, secure and scalable web applications using modern technologies.
 
 💼 Currently focused on:
-- Full-Stack Web Development (.NET Core + React + Next.js)
+- Software Engineer, Software Architecture (.NET + Cloud + DevOps)
 - Cloud-Native Apps on Microsoft Azure
 - Clean Architecture, CI/CD & DevOps pipelines
+- Design Patterns
 
 ---
 
 ### 🛠 Tech Stack
-- 💻 **Backend:** ASP.NET Core, Web API, MVC, Identity, Entity Framework Core, C#, Linq
-- 🎨 **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3
+- 💻 **Backend:** ASP.NET Core, Web API, MVC, Identity, Entity Framework Core, C#, Linq, Microservice, Design Patterns
+- 🎨 **Frontend:** React.js, Angular
 - 🗄️ **Database:** SQL Server, MongoDB
 - ☁️ **Cloud & DevOps:** Azure, GitHub Actions, Docker, CI/CD
-- 🧰 **Tools:** Git, Postman, Visual Studio, VS Code, Figma
+- 🧰 **Tools:** Git, Postman, Visual Studio, VS Code, Rider, SSMS
 
 ---
 
@@ -41,7 +42,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Inventory Cloud** | Cloud-based inventory management with login, roles & REST APIs | `.NET Core`, `React`, `Azure` |
-| **TaskMate** | Simple task management app with drag & drop UI | `Next.js`, `TypeScript`, `MongoDB` |
+| **TaskMate** | UI Development | `React`, `Angular` |
 | **DevOps Flow** | CI/CD pipeline using GitHub Actions + Azure Deployment | `Docker`, `CI/CD`, `Azure` |
 
 ---
