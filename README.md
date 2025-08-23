@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm ArMan Darsanj </h1>
-<h3 align="center">Software Engineer | .NET | DevOps & Cloud Enthusiast ☁️</h3>
+<h3 align="center">Software Engineer | Backend Engineer | C#.NET Developer</h3>
 
 ---
 
