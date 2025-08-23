@@ -61,7 +61,7 @@ I am a **Senior Backend Engineer & Software Architect** passionate about designi
 <p>
   <a href="https://www.linkedin.com/in/arman-ds-b3b967291"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ds.limited.ar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ds-index"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
