@@ -132,8 +132,8 @@ I’m interested in roles where I can own end-to-end delivery, drive engineering
 If you think I’m a fit, let’s talk!
 
 <p>
-  <a href="mailto:YOUR_EMAIL">📫 Contact Me</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> ·
+  <a href="mailto:ds.limited.ar@gmail.com">📫 Contact Me</a> ·
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291">LinkedIn</a> ·
   <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a>
 </p>
 ---
