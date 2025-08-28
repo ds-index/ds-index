@@ -64,7 +64,7 @@
   </p>
 </details>
 
-<!-- DATABASES -->
+
 <details open>
   <summary><b>Databases</b></summary>
   <p>
@@ -112,31 +112,11 @@
 ---
 
 ## 🧩 Selected Projects
-> Replace with your real projects; keep it impact-focused.
-
-- **PROJECT_NAME — Scalable Web Platform**  
-  React + Next.js + Node.js/NestJS • PostgreSQL • AWS (ECS/Fargate, RDS, CloudFront)  
-  <sub>→ Increased Core Web Vitals “Good” pages from 65% → 95%, cut TTFB by 40%, and reduced infra costs 22% via autoscaling & caching.</sub>  
-  <a href="https://github.com/YOUR_GITHUB/PROJECT_REPO">Repo</a> · <a href="https://YOUR_LIVE_DEMO_URL">Live</a>
-
-- **PROJECT_NAME — Real-time Analytics**  
-  Angular + Express • MongoDB/Redis • WebSockets  
-  <sub>→ Streamed metrics to 10k concurrent clients with p95 latency < 150ms using CQRS and Redis pub/sub.</sub>  
-  <a href="https://github.com/YOUR_GITHUB/PROJECT_REPO2">Repo</a>
-
+<p>Coming Soon.</p>
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_title=true" alt="GitHub Stats">
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB" alt="GitHub Streak">
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact" alt="Top Languages">
-</p>
-
+<p>Coming Soon.</p>
 ---
 
 ## 🗺️ Current Focus
