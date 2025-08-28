@@ -24,7 +24,7 @@
   <img src="https://github.com/ds-index" alt="Profile views">
 </p>
 
----
+<br/>
 
 ## 🚀 About Me
 - Results-driven **Full-Stack Engineer** focused on **clean architecture**, **DX/UX**, and **scalable design**.  
@@ -32,7 +32,7 @@
 - Comfortable in **cross-functional teams**, code reviews, CI/CD, and agile environments.  
 - Currently exploring **edge runtimes**, **serverless patterns**, and **performance budgets**.
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -109,15 +109,15 @@
 - **Data:** Schema design, query tuning, migrations, replication, and observability.  
 - **DevOps:** CI/CD pipelines, containerization, IaC, blue-green deployments, monitoring & alerting.
 
----
+<br/>
 
 ## 🧩 Selected Projects
 <p>Coming Soon.</p>
----
+<br/>
 
 ## 📈 GitHub Stats
 <p>Coming Soon.</p>
----
+<br/>
 
 ## 🗺️ Current Focus
 - Production-grade **Next.js** apps with **edge functions** and **RSC**  
@@ -125,7 +125,7 @@
 - **AWS** serverless patterns (Lambda, API Gateway, DynamoDB, SQS)  
 - End-to-end observability with **OpenTelemetry**
 
----
+<br/>
 
 ## 🤝 Open to Opportunities
 I’m interested in roles where I can own end-to-end delivery, drive engineering excellence, and mentor teams.  
@@ -136,7 +136,7 @@ If you think I’m a fit, let’s talk!
   <a href="https://www.linkedin.com/in/arman-ds-b3b967291">LinkedIn</a> ·
   <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a>
 </p>
----
+<br/>
 
 > *"Passionate about building secure, scalable, and elegant software solutions that drive real business value."*
 
