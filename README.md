@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB">
+  <a href="https://github.com/ds-index">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="Logo" height="72">
   </a>
 </p>
