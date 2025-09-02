@@ -60,11 +60,26 @@ Passionate about **Clean Code, Design Patterns, and Microservices**, I enjoy cre
 
 ---
 
-## 📂 Featured Projects
+## 🧩 Featured Expertise
 
-- [**Project 1**](#) – Brief description of project, technologies used, and key features  
-- [**Project 2**](#) – Brief description of project, technologies used, and key features  
-- [**Project 3**](#) – Brief description of project, technologies used, and key features  
+### **Backend Engineering**
+- ⚙️ Designed and implemented **scalable Microservices architectures** using Node.js, NestJS, and Express.  
+- 🧼 Applied **Clean Code principles & advanced Design Patterns** for maintainable, testable codebases.  
+- 🔐 Integrated **robust authentication & authorization** (JWT, OAuth2).  
+- 🚀 Optimized **SQL/NoSQL database queries** for high performance and low latency.
+
+### **Frontend Development**
+- 🎨 Built **responsive, high-performance UIs** with React & Next.js.  
+- ⚡ Leveraged **SSR (Server-Side Rendering) & SSG (Static Site Generation)** for SEO & performance.  
+- 🧩 Applied **modular architecture & component-driven development** with TypeScript.  
+- 📦 Enhanced UX with **lazy loading, code splitting & PWA techniques**.
+
+### **DevOps & Cloud**
+- 🐳 Containerized apps using **Docker** & implemented **CI/CD pipelines** with GitHub Actions.  
+- ☁️ Deployed scalable environments on **AWS** (Load Balancing, Auto-scaling).  
+- 🛠 Managed **Infrastructure as Code (IaC)** with Terraform & Docker Compose.  
+- 🛡 Ensured **security & reliability** via automated monitoring & logging.
+
 
 ---
 
