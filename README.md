@@ -1,59 +1,85 @@
-<h1 align="center">Hi there, I'm Arman 👋</h1>
-
-<h3 align="center">Senior Software Architect & .NET Backend Engineer</h3>
+<h1 align="center">👋 Hi, I'm Arman – Backend-Focused Full-Stack Engineer</h1>
 
 <p align="center">
-Designing and building secure, scalable, and cloud-native backends with <b>.NET & ASP.NET Core</b> — Web API, MVC, Identity, EF Core, LINQ — leveraging <b>SQL/NoSQL</b>, modern <b>DevOps practices</b>, and proven <b>Design Patterns</b> to deliver high-performance, maintainable systems.
+  <b>Node.js | NestJS | Express | React | Next.js | Angular| Clean Code | Microservices | Security | Cloud & DevOps</b>
 </p>
 
 ---
 
-### 🛠 Tech Stack & Expertise
-- **Backend Development:** .NET, ASP.NET Core (Web API/MVC), Identity, EF Core, LINQ  
-- **Databases:** SQL (T-SQL), NoSQL (MongoDB, Redis)  
-- **Architecture & Patterns:** Clean Architecture, DDD, CQRS, Event-Driven, Microservices  
-- **Cloud & DevOps:** Containers, CI/CD, IaC, Monitoring, Observability  
-- **Security:** OWASP, JWT, Secure SDLC, Authentication & Authorization  
-- **Other:** RESTful APIs, API Security, Distributed Systems
+## 🚀 About Me
+I'm a **Backend-Focused Full-Stack Engineer** with 4+ years of experience in building scalable, secure, and high-performance web applications.  
+Passionate about **Clean Code, Design Patterns, and Microservices**, I enjoy creating robust backend systems and smooth frontend experiences.  
+
+- 💼 Open for **international and remote opportunities**  
+- 🛡 Focused on **security, maintainability, and performance**  
+- 🌱 Always learning cutting-edge technologies  
 
 ---
 
-### 🚀 What I Do
-- Architect and develop high-throughput, enterprise-grade backends  
-- Implement scalable and secure API-driven systems  
-- Apply clean code principles and SOLID design patterns  
-- Collaborate across teams to deliver robust and maintainable software
+## 🛠 Tech Stack
 
----
+### **Backend**
+<p>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+</p>
 
-### 🌐 Connect with Me
-- **LinkedIn:** [Arman DS](https://www.linkedin.com/in/arman-ds-b3b967291)  
-- **GitHub:** [ds-index](https://github.com/ds-index)  
-- **Email:** ds.limited.ar@gmail.com
+### **Frontend**
+<p>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+</p>
 
----
+### **Databases**
+<p>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-Expert-512BD4?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-5C2D91?logo=dotnet">
-  <img src="https://img.shields.io/badge/EF%20Core-Data%20Access-512BD4">
-  <img src="https://img.shields.io/badge/SQL-Relational-CC2927?logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/NoSQL-Document/Key--Value-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-DevOps-1F425F?logo=azuredevops&logoColor=white">
-  <img src="https://img.shields.io/badge/Security-OWASP-black">
-  <img src="https://img.shields.io/badge/Design%20Patterns-SOLID-ffb300">
+### **Cloud & DevOps**
+<p>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-index&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-index&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
+
+## 📂 Featured Projects
+
+- [**Project 1**](#) – Brief description of project, technologies used, and key features  
+- [**Project 2**](#) – Brief description of project, technologies used, and key features  
+- [**Project 3**](#) – Brief description of project, technologies used, and key features  
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ds.limited.ar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ds-index"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
+
 
 ### 💡 Motto
 *"Secure, Scalable, and Smart — building software that lasts."*
