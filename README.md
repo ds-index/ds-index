@@ -13,23 +13,29 @@ I design and develop **scalable, secure, and high-performance backend systems**,
 ## 🛠️ Tech Stack
 
 ### **Core Backend & Architecture**
-<p>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Core" width="50"/></a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-asp-net.svg" alt="MVC" width="50"/></a>
-</p>
-
-### **Cloud & DevOps**
-<p>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50"/></a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps" width="50"/></a>
-</p>
+- [.NET](https://dotnet.microsoft.com/) – **C#/.NET ecosystem**
+- [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) – **Modern Web Framework**
+- [ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0) – **Model-View-Controller Framework**
+- [Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) – **RESTful API Development**
+- [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) – **ORM for .NET**
+- [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/) – **Language Integrated Query**
+- [Microservices](https://microservices.io/) – **Distributed System Architecture**
 
 ### **Databases**
-<p>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/></a>
-</p>
+- [SQL Server](https://www.microsoft.com/en-us/sql-server) – **Relational Database**
+- [PostgreSQL](https://www.postgresql.org/) – **Open-Source RDBMS**
+- [MongoDB](https://www.mongodb.com/) – **NoSQL Database**
+
+### **Cloud & DevOps**
+- [Azure](https://azure.microsoft.com/) – **Cloud Services & Hosting**
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) – **CI/CD & DevOps Pipelines**
+
+### **Best Practices & Principles**
+- [API Security](https://owasp.org/www-project-api-security/) – **Secure API Design**
+- [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/) – **Readable & Maintainable Code**
+- [Design Patterns](https://refactoring.guru/design-patterns) – **Reusable Software Solutions**
+- [Software Architecture](https://martinfowler.com/architecture/) – **Scalable & Maintainable Systems**
+- 
 
 ---
 
