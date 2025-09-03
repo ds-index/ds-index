@@ -1,64 +1,71 @@
-# Hi there, I'm Arman 👋
+<!-- Profile README -->
 
-## 🚀 About Me
-I'm a **Software Architect & Senior Backend Engineer** specializing in **.NET, ASP.NET Core, Web API, MVC, and Microservices**.  
-I design and develop **scalable, secure, and high-performance backend systems**, following **Clean Code** and **Design Patterns** principles.
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman%20DS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-ds-b3b967291)  
-[![GitHub](https://img.shields.io/badge/GitHub-ds--index-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ds-index)  
-[![Gmail](https://img.shields.io/badge/Email-ds.limited.ar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ds.limited.ar@gmail.com)  
+<h1 align="center">Hi 👋, I'm Arman</h1>
+<h3 align="center">🚀 Full-Stack Developer | Frontend + Backend + DevOps</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-
-### **Core Backend & Architecture**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-2C2D72?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=csharp&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00B0D8?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### **Frontend Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### **Databases**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-### **Best Practices**
-![API Security](https://img.shields.io/badge/API%20Security-EE0000?style=for-the-badge&logo=owasp&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-00A98F?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4A154B?style=for-the-badge&logo=sketch&logoColor=white)
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-FF6F00?style=for-the-badge&logo=archlinux&logoColor=white)
+### 🧑‍💻 About Me
+- 💡 Passionate about building **scalable, secure, and high-performance systems**  
+- 🎨 Love clean UI/UX and elegant **frontend architectures**  
+- ⚡ Skilled in **backend engineering**, **DevOps**, and **Cloud solutions**  
+- 📧 Reach me at: **ds.limited.ar@gmail.com**  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Tech Stack
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ds-index&theme=radical)
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+### 📐 Principles & Patterns
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logo=gitbook&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Current Focus
-- Building **secure and scalable microservices**
-- Implementing **Clean Architecture & Domain-Driven Design**
-- Enhancing CI/CD pipelines with **Azure DevOps**
-- Optimizing database performance (**SQL/NoSQL**)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/ds-index" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ds.limited.ar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [ds-index](https://github.com/ds-index)
+
 
 ---
 
