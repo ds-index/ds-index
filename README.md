@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logo=gitbook&logoColor=white" />
 </p>
 
----
 
 ---
 
