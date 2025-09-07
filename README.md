@@ -1,72 +1,79 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">🚀 Full-Stack Developer | Frontend + Backend + DevOps</h3>
+<h3 align="center">🏗️ Software Architect | Backend Engineer (.NET & Azure)</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 💡 Passionate about building **scalable, secure, and high-performance systems**  
-- 🎨 Love clean UI/UX and elegant **frontend architectures**  
-- ⚡ Skilled in **backend engineering**, **DevOps**, and **Cloud solutions**  
+- 🎯 Specialized in **Software Architecture** & **Backend Engineering** with **.NET (ASP.NET Core)**  
+- 🏗️ Passionate about **Clean Code, Design Patterns, and Scalable Architectures**  
+- ☁️ Experienced with **Cloud (Azure)** and **DevOps pipelines**  
+- 🗄️ Skilled in **SQL & NoSQL databases**, with strong focus on **data modeling**  
+- 🤖 Exploring **Machine Learning integration** into enterprise applications  
 - 📧 Reach me at: **ds.limited.ar@gmail.com**  
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### 🎨 Frontend
+### 🏗️ Backend & Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-### 📐 Principles & Patterns
+### 🧠 Principles & Patterns
 <p align="left">
   <img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=dependabot&logoColor=white" />
   <img src="https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-4CAF50?style=for-the-badge&logo=ddd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-00897B?style=for-the-badge&logo=microgenetics&logoColor=white" />
 </p>
 
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
 ## 📖 Tech Overview  
 
-### 🎨 Frontend  
-I build fast and optimized applications with **React** and **Next.js**, while also using **Angular** for enterprise-grade, structured projects. My focus is on **clean UI/UX, SSR/SSG, and modular architecture**.  
-
-### ⚙️ Backend  
-I have solid experience in developing **secure and scalable APIs** with **Node.js**. I use **Express.js** for lightweight, high-performance projects, and **NestJS** when modular and enterprise-level architecture is required.  
+### 🏗️ Backend & Architecture  
+Expert in building **scalable Web APIs and MVC applications** with **ASP.NET Core**. Focused on **modular architecture, microservices, and domain-driven design (DDD)**.  
 
 ### 🗄️ Databases  
-Proficient in **SQL** (PostgreSQL, SQL Server) for structured data, and **NoSQL** (MongoDB, Redis) for projects requiring **scalability and flexibility**.  
+Hands-on experience with **SQL Server & PostgreSQL** for structured, relational data, and **MongoDB & Redis** for high-performance and distributed systems.  
 
-### ☁️ DevOps & Cloud  
-Experienced with **Docker**, **CI/CD pipelines**, and **cloud deployment**. I design applications to be easily deployable on cloud platforms such as **AWS** and **GCP**.  
+### ☁️ Cloud & DevOps  
+Design and deploy systems on **Azure Cloud**, using **Docker, Kubernetes, and CI/CD pipelines** for automation and scalability.  
 
-### 📐 Principles & Patterns  
-A strong advocate of **Clean Code** and **Design Patterns**, always aiming to create software that is **maintainable, extensible, and testable**.  
+### 🧠 Principles & Patterns  
+Strong advocate of **Clean Architecture, Design Patterns, and SOLID principles** to ensure maintainable and extensible systems.  
 
+### 🤖 Machine Learning  
+Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models into enterprise systems.  
 
 ---
 
@@ -75,13 +82,14 @@ A strong advocate of **Clean Code** and **Design Patterns**, always aiming to cr
   <a href="https://github.com/ds-index" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arman-ds-b3b967291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ds.limited.ar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
