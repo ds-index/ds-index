@@ -55,6 +55,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
 ---
 
 ## 📖 Tech Overview  
@@ -72,7 +79,12 @@ Design and deploy systems on **Azure Cloud**, using **Docker, Kubernetes, and CI
 Strong advocate of **Clean Architecture, Design Patterns, and SOLID principles** to ensure maintainable and extensible systems.  
 
 ### 🤖 Machine Learning  
-Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models into enterprise systems.  
+Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models into enterprise systems.
+
+### 🎨 Frontend  
+Proficient in **Angular** for building enterprise-grade, scalable, and maintainable applications.  
+Focused on **modular architecture, RxJS state management, and TypeScript best practices**.  
+Always aiming for **clean UI/UX** and **high-performance frontend solutions**.  
 
 ---
 
