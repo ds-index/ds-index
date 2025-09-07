@@ -78,12 +78,16 @@ Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models
 
 ## 🏅 Achievements & Certifications  
 
-- 📜 JS / HTML / CSS – TVTO  
-- 📜 C#.NET – TVTO  
-- 📜 JavaScript – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
-- 📜 C#.NET – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
-- 📜 Angular – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
-- 📜 Python – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
+- 🎓 ![Bachelor's](https://img.shields.io/badge/Bachelor%20in-Computer%20Engineering-2E86C1?style=for-the-badge&logo=graduationcap&logoColor=white)  
+
+- 📜 ![TVTO](https://img.shields.io/badge/TVTO-JS%20%2F%20HTML%20%2F%20CSS-28B463?style=for-the-badge&logo=w3c&logoColor=white)  
+- 📜 ![TVTO](https://img.shields.io/badge/TVTO-C%23%20.NET-884EA0?style=for-the-badge&logo=dotnet&logoColor=white)  
+
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)  
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+ 
 
 ---
 
