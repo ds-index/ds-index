@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">🏗️ Software Architect | Backend Engineer (.NET & Azure)</h3>
+<h3 align="center">🏗️ Software Architect | Backend Engineer (.NET)</h3>
 
 ---
 
@@ -53,7 +53,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
