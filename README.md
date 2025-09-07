@@ -88,6 +88,22 @@ Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
  
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-index&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
