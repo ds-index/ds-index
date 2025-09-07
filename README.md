@@ -76,6 +76,17 @@ Exploring **ML.NET** and **Python ML frameworks** to integrate predictive models
 
 ---
 
+## 🏅 Achievements & Certifications  
+
+- 📜 JS / HTML / CSS – TVTO  
+- 📜 C#.NET – TVTO  
+- 📜 JavaScript – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
+- 📜 C#.NET – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
+- 📜 Angular – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
+- 📜 Python – [![Sololearn](https://img.shields.io/badge/SoloLearn-3a464b?style=flat&logo=sololearn&logoColor=white)](https://www.sololearn.com/)  
+
+---
+
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/ds-index" target="_blank">
