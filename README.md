@@ -84,11 +84,22 @@
 
 ---
 
-## 🐍 GitHub Snake Contribution Graph  
+---
+
+## 🧠 AI & Research  
+
+- 🐍 Actively working with **Python** for Data Science and AI applications  
+- 📘 Studying **Advanced Mathematics** (Linear Algebra, Calculus, Probability, Statistics)  
+- 🤖 Practicing **Machine Learning (ML)** algorithms and **Deep Learning (DL)** architectures  
+- 🧩 Exploring **Neural Networks, Optimization, and AI-driven problem solving**  
+- 📊 Building experimental projects with **TensorFlow, PyTorch, and Scikit-learn**  
+- 🎯 Goal: integrate **AI models** into enterprise-grade full-stack applications  
 
 <p align="center">
-  <img src="https://github.com/ds-index/ds-index/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/ML%20%26%20DL-Advanced%20Learning-blueviolet?style=for-the-badge&logo=ai" />
 </p>
+
 
 ---
 
