@@ -84,8 +84,6 @@
 
 ---
 
----
-
 ## 🧠 AI & Research  
 
 - 🐍 Actively working with **Python** for Data Science and AI applications  
