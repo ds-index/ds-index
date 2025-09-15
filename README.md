@@ -29,6 +29,11 @@
 ### 🏗️ Backend & Architecture  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=entityframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-0078D4?style=for-the-badge&logo=linq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Security-000000?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend  
