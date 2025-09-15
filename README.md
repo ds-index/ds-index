@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">⚡ Full-Stack Software Engineer | JavaScript & TypeScript Expert | AI Enthusiast</h3>
+<h3 align="center">⚡ Software Engineer & Software Architect | C# .NET Expert | System Design Enthusiast</h3>
 
 ---
 
@@ -13,44 +13,52 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💻 Specialized in **Full-Stack Development** with **JS/TS**  
-- ⚛️ Expert in **React, Next.js, Angular, Redux.js, RxJS**  
-- 🏗️ Skilled in **Node.js, Express.js, Nest.js, Microservices & Design Patterns**  
-- 🗄️ Hands-on with **PostgreSQL, MongoDB, GraphQL**  
-- 🔐 Focus on **Security, API design, JWT & OAuth**  
-- 🌐 Building **RWD, PWA, SPA & SSR** solutions  
-- 🚀 Familiar with **CI/CD, Docker, Kubernetes, and DevOps pipelines**  
+- 💻 Professional in **C# .NET** and **Software Architecture**  
+- 🌐 Specialized in **ASP.NET Core Web API** with **EF Core, LINQ, Identity**  
+- 🔐 Deep focus on **API Security, JWT, OAuth2**  
+- 🏗️ Skilled in **Microservices, Design Patterns, Clean Code, and DDD**  
+- 🧪 Strong in **Unit Testing & Test-Driven Development (TDD)**  
+- ☁️ Experienced with **Azure DevOps** for CI/CD pipelines and deployments  
+- ⚛️ Building scalable UIs with **Angular, RxJS, TypeScript, and TailwindCSS**  
 - 📧 Reach me at: **ds.limited.ar@gmail.com**  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,angular,rxjs,sass" />
-</p>
-
 ### 🏗️ Backend & Architecture  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,tailwind" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,mongodb" />
 </p>
 
 ### ☁️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker" />
 </p>
 
 ### 🔐 Security & APIs  
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20Design-0A0A0A?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Security-0A0A0A?style=for-the-badge&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -71,19 +79,32 @@
 
 ---
 
+## 🧠 Architecture & Practices  
+
+- 🏛️ Applying **Domain-Driven Design (DDD)** in enterprise projects  
+- 📐 Practicing **Clean Architecture & SOLID principles**  
+- 🧩 Strong background in **Design Patterns** for scalable solutions  
+- 🧪 Experienced in **Unit Testing, Integration Testing, and TDD**  
+- 🚀 Building **secure, distributed, and scalable microservices**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-green?style=for-the-badge&logo=architecture"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Elegant-blue?style=for-the-badge&logo=code"/>
+</p>
+
+---
+
 ## 🏅 Education & Certifications  
 
 - 🎓 ![Bachelor's](https://img.shields.io/badge/Bachelor%20Degree-Computer%20Engineering-2E86C1?style=for-the-badge&logo=graduationcap&logoColor=white)  
 
-- 📜 ![TVTO](https://img.shields.io/badge/TVTO-JavaScript%20%2F%20HTML%20%2F%20CSS-28B463?style=for-the-badge&logo=w3c&logoColor=white)  
 - 📜 ![TVTO](https://img.shields.io/badge/TVTO-C%23%20.NET-884EA0?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 📜 ![TVTO](https://img.shields.io/badge/TVTO-JavaScript%20%2F%20HTML%20%2F%20CSS-28B463?style=for-the-badge&logo=w3c&logoColor=white)  
 
-- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-- 📜 ![Meta](https://img.shields.io/badge/Meta-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ---
 
@@ -116,6 +137,6 @@
 ---
 
 ### 💡 Motto
-*"Secure, Scalable, and Elegant — building full-stack solutions that empower businesses."*  
-> *"Great software isn’t just built, it’s architected."*  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+*"Secure, Scalable, and Elegant — architecting modern .NET solutions."*  
+> *"Great software isn’t just built, it’s designed."*  
+> “Simplicity is the soul of good architecture.”  
