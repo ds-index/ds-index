@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 - 💻 Professional in **C# .NET** and **Software Architecture**  
-- 🌐 Specialized in **ASP.NET Core Web API** with **EF Core, LINQ, Identity**  
+- 🌐 Specialized in **ASP.NET Core Web API, MVC** with **EF Core, LINQ, Identity**  
 - 🔐 Deep focus on **API Security, JWT, OAuth2**  
 - 🏗️ Skilled in **Microservices, Design Patterns, Clean Code, and DDD**  
 - 🧪 Strong in **Unit Testing & Test-Driven Development (TDD)**  
