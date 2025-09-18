@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">⚡ Full-Stack Software Engineer | JS/TS Expert | AI & ML Enthusiast</h3>
+<h3 align="center">⚡ Software Architect | NET Expert | AI Enthusiast</h3>
 
 ---
 
@@ -12,46 +12,58 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 💻 Specialized in **Full-Stack Development** with **JavaScript & TypeScript**  
-- ⚛️ Expert in **React, Next.js, Angular, Redux.js, RxJS**  
-- 🏗️ Skilled in **Node.js, Express.js, Nest.js, Microservices & Design Patterns**  
-- 🗄️ Hands-on with **PostgreSQL, MongoDB, GraphQL**  
-- 🔐 Focused on **Security, API Design, JWT & OAuth**  
-- 🌐 Building **RWD, PWA, SPA & SSR** solutions  
-- 🚀 Familiar with **CI/CD, Docker, Kubernetes, and DevOps pipelines**  
-- 🤖 Currently practicing **Python, Advanced Math, ML/DL algorithms** to integrate AI into enterprise solutions  
-- 📧 Reach me at: **ds.limited.ar@gmail.com**  
+🧑‍💻 About Me
+
+👨‍💻 Software Engineer & Software Architect
+
+💻 Specialized in .NET
+
+⚙️ Professional in ASP.NET Core (Web API, MVC)
+
+🗄️ Skilled with Entity Framework Core, LINQ, Dapper
+
+🔐 Experienced in Identity, API Security, JWT, OAuth
+
+🗂️ Hands-on with SQL Server, PostgreSQL, MongoDB
+
+☁️ Working with Azure DevOps & Cloud Solutions
+
+🅰️ Proficient in Angular, RxJS, TypeScript, Tailwind CSS
+
+📱 Building Responsive Web Design (RWD) solutions
+
+🏗️ Building Microservices, Clean Code, Design Patterns
+
+🧪 Focused on Unit Testing & Scalable Architectures
+
+🤖 Currently practicing **Python, Advanced Math, ML/DL algorithms** to integrate AI into enterprise solutions  
+
+📧 Reach me at: **ds.limited.ar@gmail.com**  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,angular,rxjs,sass" />
+🏗️ Backend & Architecture
+<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet" /> </p>
+
+🎨 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,tailwind" /> </p>
+
+🗄️ Databases
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb"/> 
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
 </p>
 
-### 🏗️ Backend & Architecture  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
-</p>
+☁️ DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=azure,githubactions,docker" /> </p>
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### ☁️ DevOps & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
-</p>
-
-### 🔐 Security & APIs  
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20Design-0A0A0A?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+🔐 Security & APIs
+<p align="center"> 
+  <img src="https://img.shields.io/badge/API%20Security-000000?style=for-the-badge&logo=swagger&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/> 
 </p>
 
 ---
@@ -75,15 +87,13 @@
 
 - 🎓 ![Bachelor's](https://img.shields.io/badge/Bachelor%20Degree-Computer%20Engineering-2E86C1?style=for-the-badge&logo=graduationcap&logoColor=white)  
 
-- 📜 ![TVTO](https://img.shields.io/badge/TVTO-JavaScript%20%2F%20HTML%20%2F%20CSS-28B463?style=for-the-badge&logo=w3c&logoColor=white)  
 - 📜 ![TVTO](https://img.shields.io/badge/TVTO-C%23%20.NET-884EA0?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 📜 ![TVTO](https://img.shields.io/badge/TVTO-JavaScript%20%2F%20HTML%20%2F%20CSS-28B463?style=for-the-badge&logo=w3c&logoColor=white)  
 
-- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+- 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 - 📜 ![Sololearn](https://img.shields.io/badge/SoloLearn-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-- 📜 ![Meta](https://img.shields.io/badge/Meta-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ---
 
