@@ -100,14 +100,6 @@
 
 ---
 
-## 🐍 GitHub Snake Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/ds-index/ds-index/blob/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ds-index" target="_blank">
