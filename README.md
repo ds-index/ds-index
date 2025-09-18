@@ -12,33 +12,21 @@
 
 ---
 
-🧑‍💻 About Me
+- 🧑‍💻 About Me
 
-👨‍💻 Software Engineer & Software Architect
-
-💻 Specialized in .NET
-
-⚙️ Professional in ASP.NET Core (Web API, MVC)
-
-🗄️ Skilled with Entity Framework Core, LINQ, Dapper
-
-🔐 Experienced in Identity, API Security, JWT, OAuth
-
-🗂️ Hands-on with SQL Server, PostgreSQL, MongoDB
-
-☁️ Working with Azure DevOps & Cloud Solutions
-
-🅰️ Proficient in Angular, RxJS, TypeScript, Tailwind CSS
-
-📱 Building Responsive Web Design (RWD) solutions
-
-🏗️ Building Microservices, Clean Code, Design Patterns
-
-🧪 Focused on Unit Testing & Scalable Architectures
-
-🤖 Currently practicing **Python, Advanced Math, ML/DL algorithms** to integrate AI into enterprise solutions  
-
-📧 Reach me at: **ds.limited.ar@gmail.com**  
+- 👨‍💻 Software Engineer & Software Architect
+- 💻 Specialized in .NET
+- ⚙️ Professional in ASP.NET Core (Web API, MVC)
+- 🗄️ Skilled with Entity Framework Core, LINQ, Dapper
+- 🔐 Experienced in Identity, API Security, JWT, OAuth
+- 🗂️ Hands-on with SQL Server, PostgreSQL, MongoDB
+- ☁️ Working with Azure DevOps & Cloud Solutions
+- 🅰️ Proficient in Angular, RxJS, TypeScript, Tailwind CSS
+- 📱 Building Responsive Web Design (RWD) solutions
+- 🏗️ Building Microservices, Clean Code, Design Patterns
+- 🧪 Focused on Unit Testing & Scalable Architectures
+- 🤖 Currently practicing **Python, Advanced Math, ML/DL algorithms** to integrate AI into enterprise solutions  
+- 📧 Reach me at: **ds.limited.ar@gmail.com**  
 
 ---
 
