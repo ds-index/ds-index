@@ -87,16 +87,16 @@
 
 ---
 
-## 📊 GitHub Activity  
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+### 🏆 GitHub Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ds-index&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-index&theme=radical" alt="GitHub Streak"/>
-</p>
+### 🐍 Contribution Snake
+![snake gif](https://github.com/ds-index/ds-index/blob/output/github-contribution-grid-snake.svg)
+
+### 📈 Activity Graph
+![ds-index's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ds-index&theme=radical)
 
 ---
 
