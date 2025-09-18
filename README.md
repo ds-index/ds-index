@@ -92,9 +92,6 @@
 ### 🏆 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ds-index&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/ds-index/ds-index/blob/output/github-contribution-grid-snake.svg)
-
 ### 📈 Activity Graph
 ![ds-index's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ds-index&theme=radical)
 
