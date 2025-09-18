@@ -33,7 +33,7 @@
 ## ⚙️ Tech Stack
 
 🏗️ Backend & Architecture
-<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,cs" /> </p>
 
 🎨 Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,tailwind" /> </p>
