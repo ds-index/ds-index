@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">⚡ Software Architect | NET Expert | AI Enthusiast</h3>
+<h3 align="center">⚡ Software Architect | .NET Expert | AI Enthusiast</h3>
 
 ---
 
