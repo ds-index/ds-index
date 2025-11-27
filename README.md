@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ds-index&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&count_private=true&theme=radical&hide_title=true" alt="GitHub Stats" />
   <img src="https://img.shields.io/github/followers/ds-index?label=Followers&style=social" alt="GitHub followers"/>
 </p>
 
@@ -21,7 +21,7 @@
 - 🔐 Experienced in Identity, API Security, JWT, OAuth
 - 🗂️ Hands-on with SQL Server, PostgreSQL, MongoDB
 - ☁️ Working with Azure DevOps & Cloud Solutions
-- 🅰️ Proficient in React, Angular, TypeScript, Tailwind CSS, Bootstrap, Jquery
+- 🅰️⚛️ Proficient in React, Angular, TypeScript, Tailwind CSS, Bootstrap, Jquery
 - 📱 Building Responsive Web Design (RWD) solutions
 - 🏗️ Building Microservices, Clean Code, Design Patterns
 - 🧪 Focused on Unit Testing & Scalable Architectures
