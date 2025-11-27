@@ -21,7 +21,7 @@
 - 🔐 Experienced in Identity, API Security, JWT, OAuth
 - 🗂️ Hands-on with SQL Server, PostgreSQL, MongoDB
 - ☁️ Working with Azure DevOps & Cloud Solutions
-- 🅰️ Proficient in Angular, RxJS, TypeScript, Tailwind CSS
+- 🅰️ Proficient in React, Angular, TypeScript, Tailwind CSS, Bootstrap, Jquery
 - 📱 Building Responsive Web Design (RWD) solutions
 - 🏗️ Building Microservices, Clean Code, Design Patterns
 - 🧪 Focused on Unit Testing & Scalable Architectures
@@ -36,7 +36,11 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,cs" /> </p>
 
 🎨 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,tailwind" /> </p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind" /> 
+</p>
+
 
 🗄️ Databases
 <p align="center"> 
