@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,html,css" />
 </p>
 
-- ⚡ React, Next.js  
+- ⚡ React, Next.js, Angular
 - 🧠 State Management: Redux, Context API  
 - 🎨 Tailwind CSS, Bootstrap  
 - 📱 Responsive Web Design (RWD)  
