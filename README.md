@@ -1,4 +1,3 @@
-
 # 🚀 Software Engineer | Full-Stack .NET & Frontend Developer
 
 <p align="center">
@@ -9,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full-Stack Developer with strong **.NET & JavaScript ecosystem**
+- 💻 Full-Stack Developer focused on **.NET & TypeScript ecosystem**
 - ⚙️ Experience in **Backend, Frontend, Databases & DevOps**
 - 🤖 Currently learning **Artificial Intelligence, Mathematics & Algorithms**
 - 🚀 Passionate about scalable systems and clean architecture
@@ -31,7 +30,7 @@
 
 ---
 
-## 🎨 Frontend Stack
+## 🎨 Frontend Stack (TypeScript-based)
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -81,8 +80,8 @@ My goal is to combine **AI-driven solutions** with **robust software engineering
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=react" height="160"/>
 </p>
 
 ---
@@ -90,13 +89,17 @@ My goal is to combine **AI-driven solutions** with **robust software engineering
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ds-index">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/arman-ds-b3b967291">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="mailto:ds.limited.ar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
