@@ -11,7 +11,7 @@
 - 💻 Full-Stack Developer focused on **.NET & TypeScript ecosystem**
 - ⚙️ Experience in **Backend, Frontend, Databases & DevOps**
 - 🤖 Currently learning **Artificial Intelligence, Mathematics & Algorithms**
-- 🚀 Passionate about scalable systems and clean architecture
+- 🚀 Passionate about scalable systems, clean architecture, and software quality
 
 ---
 
@@ -63,6 +63,32 @@
 
 ---
 
+## 🧩 Architecture, Design & Software Quality
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Design%20Patterns-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DDD-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDD-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TDD-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+---
+
+## 🔐 Authentication & Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Key-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cookie%20Auth-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge"/>
+</p>
+
+---
+
 ## 🤖 Artificial Intelligence, Mathematics & Algorithms
 
 I am actively working on building strong foundations in **Artificial Intelligence and Machine Learning**, with a deep focus on:
@@ -74,15 +100,6 @@ I am actively working on building strong foundations in **Artificial Intelligenc
 - Integrating intelligent systems into scalable full-stack applications
 
 My goal is to combine **AI-driven solutions** with **robust software engineering** to solve complex real-world problems.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds-index&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-index&layout=compact&theme=react" height="160"/>
-</p>
 
 ---
 
@@ -99,6 +116,7 @@ My goal is to combine **AI-driven solutions** with **robust software engineering
     <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
