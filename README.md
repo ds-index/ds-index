@@ -1,4 +1,4 @@
-# 🚀 Senior DevOps & Backend Engineer | ASP.NET Core Specialist
+# 🚀 Backend & DevOps Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=750&lines=DevOps+%26+Backend+Engineer;ASP.NET+Core+%7C+Golang+%7C+Cloud+Infrastructure;Kubernetes+%7C+Docker+%7C+Terraform;SQL+Server+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis" />
