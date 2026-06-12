@@ -173,7 +173,7 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 </a>
 
 <a href="mailto:ds.limited.ar@gmail.com">
-<img src="https://img.shields.io/badge/Email-ds.limited.ar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
