@@ -56,6 +56,7 @@ mindset: "Build. Learn. Improve. Repeat."
 * ASP.NET Core
 * ASP.NET Web API
 * Entity Framework Core
+* Identity
 * Dapper
 * LINQ
 * SQL Server
