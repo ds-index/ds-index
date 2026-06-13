@@ -41,7 +41,6 @@ mindset: "Build. Learn. Improve. Repeat."
 <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,go,py,postgres,mongodb,docker,kubernetes,git,githubactions" />
 
 </div>
----
 
 ## 💻 Backend Expertise
 
