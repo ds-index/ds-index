@@ -32,7 +32,6 @@ currently_learning:
 mindset: "Build. Learn. Improve. Repeat."
 ```
 
-س
 ## 🛠 Core Stack
 
 <div align="center">
