@@ -167,8 +167,8 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ds.limited.ar@gmail.com?subject=Hello&body=Hi">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+<a href="mailto:ds.limited.ar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" />
 </a>
 
 </div>
