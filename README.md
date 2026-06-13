@@ -37,9 +37,9 @@ mindset: "Build. Learn. Improve. Repeat."
 ## 🛠 Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,go,py,postgres,mongodb,docker,kubernetes,git,githubactions" />
-  <br />
-  <span style="font-size: 1.2rem;">Identity • SQL Server • Microservice</span>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,go,py,postgres,mongodb,docker,kubernetes,git,githubactions" />
+
 </div>
 ---
 
