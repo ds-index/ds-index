@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+Systems;Learning+Cloud+%26+DevOps;Exploring+Go+%28Golang%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Backend+Engineer;DevOps+Enthusiast" />
 
 </div>
 
@@ -13,7 +13,6 @@
 ```yaml
 name: Arman
 role: Backend Engineer
-location: Germany
 specialization:
   - ASP.NET Core
   - REST APIs
