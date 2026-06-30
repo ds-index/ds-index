@@ -2,7 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Backend+Engineer;DevOps+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+%26+Machine+Learning+Enthusiast;ASP.NET+Core+Developer;Building+Intelligent+Systems" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net" />
+<img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 </div>
 
@@ -12,7 +19,11 @@
 
 ```yaml
 name: Arman
-role: Backend Engineer
+
+role:
+  - Backend Engineer
+  - AI Enthusiast
+
 specialization:
   - ASP.NET Core
   - REST APIs
@@ -22,29 +33,34 @@ specialization:
   - Microservices
 
 currently_learning:
-  - Go (Golang)
-  - Docker
-  - Kubernetes
-  - AWS
-  - Azure
-  - CI/CD
+  - Python
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - LLM Applications
+  - LangChain
+  - RAG Systems
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
 
-## 🛠 Core Stack
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,go,py,postgres,mongodb,docker,kubernetes,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,go,postgres,mongodb,git,github,vscode" />
 
 </div>
 
-## 💻 Backend Expertise
+---
+
+## 💻 Backend Engineering
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### ⚡ Technologies
 
@@ -59,7 +75,8 @@ mindset: "Build. Learn. Improve. Repeat."
 * MongoDB
 
 </td>
-<td>
+
+<td width="50%">
 
 ### 🏗 Architecture
 
@@ -67,9 +84,10 @@ mindset: "Build. Learn. Improve. Repeat."
 * Domain Driven Design
 * SOLID Principles
 * Design Patterns
+* CQRS
 * Microservices
 * RESTful APIs
-* CQRS
+* System Design
 
 </td>
 </tr>
@@ -77,30 +95,33 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 🌱 Currently Exploring
+## 🤖 AI & Machine Learning Journey
 
 <table>
 <tr>
 <td width="50%">
 
-### ☁️ Cloud
+### 🧠 Machine Learning
 
-* AWS Fundamentals
-* Azure Fundamentals
-* Cloud Deployment
-* Infrastructure Concepts
+* Python
+* NumPy
+* Pandas
+* Scikit-Learn
+* Data Analysis
+* Feature Engineering
 
 </td>
 
 <td width="50%">
 
-### 🐳 DevOps
+### 🚀 Deep Learning & AI
 
-* Docker
-* Kubernetes
-* GitHub Actions
-* CI/CD Pipelines
-* Monitoring & Observability
+* TensorFlow
+* PyTorch
+* Neural Networks
+* LLM Fundamentals
+* Prompt Engineering
+* Retrieval Augmented Generation (RAG)
 
 </td>
 </tr>
@@ -108,17 +129,31 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 📈 Engineering Journey
+## 📈 Engineering Progress
 
 ```text
-Backend Engineering    ████████████████████ 95%
-Database Design        ██████████████████░░ 90%
-System Design          ████████████████░░░░ 80%
+Backend Engineering      ████████████████████ 95%
+Database Design          ██████████████████░░ 90%
+System Design            ████████████████░░░░ 80%
 
-Go (Golang)            ███████░░░░░░░░░░░░░ 35%
-Cloud Technologies     ██████░░░░░░░░░░░░░░ 30%
-DevOps Practices       ██████░░░░░░░░░░░░░░ 30%
+Python                   ████████████░░░░░░░░ 60%
+Machine Learning         █████████░░░░░░░░░░░ 45%
+Deep Learning            ███████░░░░░░░░░░░░░ 35%
+Generative AI            ███████░░░░░░░░░░░░░ 35%
 ```
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Improve System Design Skills
+* ✅ Build Production-Ready ASP.NET Core Projects
+* 🚀 Master Python for AI Development
+* 🚀 Build End-to-End ML Projects
+* 🚀 Learn Deep Learning Fundamentals
+* 🚀 Create AI-Powered Applications
+* 🚀 Develop RAG & LLM-Based Solutions
+* 🚀 Contribute to Open Source AI Projects
 
 ---
 
@@ -134,7 +169,7 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 
 ---
 
-## 🔥 Most Used Technologies
+## 🔥 Most Used Languages
 
 <div align="center">
 
@@ -144,18 +179,7 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 
 ---
 
-## 🎯 2026 Goals
-
-* ✅ Improve System Design Skills
-* ✅ Build Production-Ready ASP.NET Core Projects
-* 🚀 Learn Go Deeply
-* 🚀 Deploy Applications to Cloud Platforms
-* 🚀 Master Docker & Kubernetes
-* 🚀 Build Complete CI/CD Workflows
-
----
-
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -167,8 +191,8 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ds.limited.ar@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" />
+<a href="mailto:ds.limited.ar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -179,9 +203,10 @@ DevOps Practices       ██████░░░░░░░░░░░░░
 
 ### 💡 Philosophy
 
-> Building reliable software today while learning the technologies of tomorrow.
+> Building scalable backend systems today while creating intelligent applications for tomorrow.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ds-index&style=for-the-badge" />
 
 </div>
-
