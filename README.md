@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+%26+Machine+Learning+Enthusiast;ASP.NET+Core+Developer;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+%26+Machine+Learning+Enthusiast;ASP.NET+Core+Developer;Building+Scalable+%26+Intelligent+Systems" />
 
 <br><br>
 
@@ -50,7 +50,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,go,postgres,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,postgres,mongodb,docker,kubernetes,git,github,vscode" />
 
 </div>
 
@@ -60,7 +60,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Technologies
 
@@ -73,21 +73,26 @@ mindset: "Build. Learn. Improve. Repeat."
 * SQL Server
 * PostgreSQL
 * MongoDB
+* Docker
+* Kubernetes
+* Git
+* GitHub Actions
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏗 Architecture
 
 * Clean Architecture
-* Domain Driven Design
+* Domain Driven Design (DDD)
 * SOLID Principles
 * Design Patterns
 * CQRS
 * Microservices
 * RESTful APIs
 * System Design
+* Event-Driven Architecture
 
 </td>
 </tr>
@@ -95,11 +100,11 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 🤖 AI & Machine Learning Journey
+## 🤖 AI & Machine Learning
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Machine Learning
 
@@ -109,18 +114,22 @@ mindset: "Build. Learn. Improve. Repeat."
 * Scikit-Learn
 * Data Analysis
 * Feature Engineering
+* Data Visualization
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Deep Learning & AI
+### 🚀 Deep Learning & Generative AI
 
 * TensorFlow
 * PyTorch
 * Neural Networks
 * LLM Fundamentals
 * Prompt Engineering
+* LangChain
+* OpenAI API
+* Vector Databases
 * Retrieval Augmented Generation (RAG)
 
 </td>
@@ -136,6 +145,7 @@ Backend Engineering      ██████████████████�
 Database Design          ██████████████████░░ 90%
 System Design            ████████████████░░░░ 80%
 
+Docker & Kubernetes      ████████████░░░░░░░░ 60%
 Python                   ████████████░░░░░░░░ 60%
 Machine Learning         █████████░░░░░░░░░░░ 45%
 Deep Learning            ███████░░░░░░░░░░░░░ 35%
@@ -144,10 +154,23 @@ Generative AI            ███████░░░░░░░░░░░�
 
 ---
 
+## 🚀 Featured Areas
+
+* 🔹 Scalable Backend Systems
+* 🔹 Clean Architecture Projects
+* 🔹 Microservices Development
+* 🔹 API Design & Development
+* 🔹 AI-Powered Applications
+* 🔹 Retrieval-Augmented Generation (RAG)
+* 🔹 LLM Integrations
+
+---
+
 ## 🎯 2026 Goals
 
 * ✅ Improve System Design Skills
 * ✅ Build Production-Ready ASP.NET Core Projects
+* 🚀 Master Docker & Kubernetes
 * 🚀 Master Python for AI Development
 * 🚀 Build End-to-End ML Projects
 * 🚀 Learn Deep Learning Fundamentals
