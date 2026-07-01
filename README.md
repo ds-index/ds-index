@@ -34,8 +34,8 @@ specialization:
 
 currently_learning:
   - Python
-  -Fast API
-  -Django
+  - Fast API
+  - Django
   - Machine Learning
   - Deep Learning
   - Generative AI
@@ -54,7 +54,7 @@ mindset: "Build. Learn. Improve. Repeat."
 <div align="center">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,postgres,mongodb,docker,kubernetes,git,github,vscode,fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,postgres,mongodb,docker,kubernetes,git,github,vscode,fastapi,django,redis" />
 </div>
 
 </div>
