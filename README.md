@@ -34,12 +34,15 @@ specialization:
 
 currently_learning:
   - Python
+  -Fast API
+  -Django
   - Machine Learning
   - Deep Learning
   - Generative AI
   - LLM Applications
   - LangChain
   - RAG Systems
+  -VectorDB
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
@@ -50,7 +53,9 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,postgres,mongodb,docker,kubernetes,git,github,vscode" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,python,postgres,mongodb,docker,kubernetes,git,github,vscode,fastapi,django" />
+</div>
 
 </div>
 
@@ -112,6 +117,7 @@ mindset: "Build. Learn. Improve. Repeat."
 * NumPy
 * Pandas
 * Scikit-Learn
+* Matplotlib
 * Data Analysis
 * Feature Engineering
 * Data Visualization
