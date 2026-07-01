@@ -42,7 +42,7 @@ currently_learning:
   - LLM Applications
   - LangChain
   - RAG Systems
-  -VectorDB
+  - VectorDB
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
