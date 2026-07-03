@@ -31,11 +31,12 @@ specialization:
   - PostgreSQL
   - Clean Architecture
   - Microservices
+  - Typescript
+  - Angular
 
 currently_learning:
   - Python
   - Fast API
-  - Django
   - Machine Learning
   - Deep Learning
   - Generative AI
@@ -54,7 +55,7 @@ mindset: "Build. Learn. Improve. Repeat."
 <div align="center">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,typescript,angular,postgres,mongodb,docker,kubernetes,git,github,vscode,fastapi,django,redis" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,typescript,angular,postgres,mongodb,docker,kubernetes,git,github,vscode,fastapi,redis" />
 </div>
 
 </div>
