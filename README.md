@@ -24,7 +24,7 @@
 name: Arman
 
 role:
-  - Backend Engineer
+  - Full-Stack Engineer
   - AI Enthusiast
 
 specialization:
@@ -32,10 +32,15 @@ specialization:
   - REST APIs
   - SQL Server
   - PostgreSQL
+  - MongoDb
   - Clean Architecture
+  - Desing Patterns
+  - Clean Code
   - Microservices
   - Typescript
-  - Angular
+  - React
+  - Next.js
+  - Azure & DevOps
 
 currently_learning:
   - Python
@@ -58,7 +63,7 @@ mindset: "Build. Learn. Improve. Repeat."
 <div align="center">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,typescript,angular,postgres,mongodb,docker,kubernetes,git,github,vscode,pytorch,tensorflow,fastapi,redis" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,typescript,react, nextjs,postgres,mongodb,azure,docker,kubernetes,git,github,vscode,pytorch,tensorflow,fastapi,redis" />
 </div>
 
 </div>
