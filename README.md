@@ -203,20 +203,20 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-📈 Engineering Progress
-text```
-Backend Engineering      ████████████████████ 95%
-Database Design          ██████████████████░░ 90%
-System Design            ████████████████░░░░ 80%
+## 📈 Engineering Progress
 
-Docker                   ███████████████░░░░░ 75%
-React & Next.js          ████████████░░░░░░░░ 60%
+| Skill               | Level        |
+| ------------------- | ------------ |
+| Backend Engineering | Advanced     |
+| Database Design     | Advanced     |
+| System Design       | Advanced     |
+| Docker              | Intermediate |
+| React & Next.js     | Intermediate |
+| Azure Cloud         | Learning     |
+| GitHub Actions      | Learning     |
+| Terraform           | Learning     |
+| Kubernetes          | Learning     |
 
-Azure Cloud              ███░░░░░░░░░░░░░░░░░ 15%
-GitHub Actions           ██░░░░░░░░░░░░░░░░░░ 10%
-Terraform                ██░░░░░░░░░░░░░░░░░░ 10%
-Kubernetes               █░░░░░░░░░░░░░░░░░░░ 5%
-```
 
 ---
 
