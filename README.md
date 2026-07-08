@@ -24,8 +24,9 @@
 name: Arman
 
 role:
-  - Full-Stack Engineer
-  - AI Enthusiast
+  * Full-Stack Engineer
+  * DevOps & Cloud Enthusiast
+
 
 specialization:
   - ASP.NET Core
@@ -45,22 +46,21 @@ specialization:
   - DevOps
 
 currently_learning:
-
-* Azure Cloud
-* Kubernetes (K8s)
-* GitHub Actions
-* CI/CD Pipelines
-* Infrastructure as Code (IaC)
-* Terraform
-* Cloud Architecture
-* Microservices Architecture
-* Redis
-* System Design
-* Design Patterns
-* Distributed Systems
-* Observability & Monitoring
-* DevOps Practices
-* Infrastructure Engineering
+  * Azure Cloud
+  * Kubernetes (K8s)
+  * GitHub Actions
+  * CI/CD Pipelines
+  * Infrastructure as Code (IaC)
+  * Terraform
+  * Cloud Architecture
+  * Microservices Architecture
+  * Redis
+  * System Design
+  * Design Patterns
+  * Distributed Systems
+  * Observability & Monitoring
+  * DevOps Practices
+  * Infrastructure Engineering
 
 
 mindset: "Build. Learn. Improve. Repeat."
@@ -99,6 +99,7 @@ mindset: "Build. Learn. Improve. Repeat."
 * SQL Server
 * PostgreSQL
 * MongoDB
+* Redis
 * Docker
 * Kubernetes
 * Git
@@ -126,38 +127,72 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 🤖 AI & Machine Learning
+## ☁️ Cloud & DevOps
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+### 🚀 Cloud Technologies
 
-* Python
-* NumPy
-* Pandas
-* Scikit-Learn
-* Matplotlib
-* Data Analysis
-* Feature Engineering
-* Data Visualization
+* Microsoft Azure
+* Azure App Service
+* Azure Container Apps
+* Azure Kubernetes Service (AKS)
+* Azure Storage
+* Azure SQL Database
+* Azure Key Vault
+* Azure Monitor
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Deep Learning & Generative AI
+### ⚙️ DevOps & Infrastructure
 
-* TensorFlow
-* PyTorch
-* Neural Networks
-* LLM Fundamentals
-* Prompt Engineering
-* LangChain
-* OpenAI API
-* Vector Databases
-* Retrieval Augmented Generation (RAG)
+* Docker
+* Kubernetes
+* GitHub Actions
+* CI/CD Pipelines
+* Infrastructure as Code (IaC)
+* Terraform
+* Monitoring & Logging
+* Container Orchestration
+* Cloud-Native Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Frontend Development
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Next.js
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Frontend Architecture
+
+* Component-Based Design
+* Server-Side Rendering (SSR)
+* Static Site Generation (SSG)
+* API Integration
+* State Management
+* Responsive Design
 
 </td>
 </tr>
@@ -172,12 +207,15 @@ Backend Engineering      ██████████████████�
 Database Design          ██████████████████░░ 90%
 System Design            ████████████████░░░░ 80%
 
-Docker & Kubernetes      ████████████░░░░░░░░ 60%
-Python                   ████████████░░░░░░░░ 60%
-Machine Learning         █████████░░░░░░░░░░░ 45%
-Deep Learning            ███████░░░░░░░░░░░░░ 35%
-Generative AI            ███████░░░░░░░░░░░░░ 35%
+Docker                   ███████████████░░░░░ 75%
+React & Next.js          ████████████░░░░░░░░ 60%
+Kubernetes               ████████████░░░░░░░░ 60%
+
+Azure Cloud              ███░░░░░░░░░░░░░░░░░ 15%
+GitHub Actions           ██░░░░░░░░░░░░░░░░░░ 10%
+Terraform                ██░░░░░░░░░░░░░░░░░░ 10%
 ```
+
 
 ---
 
@@ -185,11 +223,12 @@ Generative AI            ███████░░░░░░░░░░░�
 
 * 🔹 Scalable Backend Systems
 * 🔹 Clean Architecture Projects
+* 🔹 Cloud-Native Applications
 * 🔹 Microservices Development
 * 🔹 API Design & Development
-* 🔹 AI-Powered Applications
-* 🔹 Retrieval-Augmented Generation (RAG)
-* 🔹 LLM Integrations
+* 🔹 DevOps Automation
+* 🔹 Kubernetes & Containerized Workloads
+* 🔹 Distributed Systems
 
 ---
 
@@ -197,31 +236,13 @@ Generative AI            ███████░░░░░░░░░░░�
 
 * ✅ Improve System Design Skills
 * ✅ Build Production-Ready ASP.NET Core Projects
+* 🚀 Master React & Next.js
+* 🚀 Master Azure Cloud Services
 * 🚀 Master Docker & Kubernetes
-* 🚀 Master Python for AI Development
-* 🚀 Build End-to-End ML Projects
-* 🚀 Learn Deep Learning Fundamentals
-* 🚀 Create AI-Powered Applications
-* 🚀 Develop RAG & LLM-Based Solutions
-* 🚀 Contribute to Open Source AI Projects
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ds-index">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arman-ds-b3b967291">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ds.limited.ar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+* 🚀 Build End-to-End Cloud-Native Applications
+* 🚀 Learn Terraform & Infrastructure as Code
+* 🚀 Improve DevOps & CI/CD Skills
+* 🚀 Contribute to Open Source Projects
 
 ---
 
@@ -229,10 +250,7 @@ Generative AI            ███████░░░░░░░░░░░�
 
 ### 💡 Philosophy
 
-> Building scalable backend systems today while creating intelligent applications for tomorrow.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ds-index&style=for-the-badge" />
+> Building scalable, cloud-native applications with clean architecture, modern DevOps practices, and reliable infrastructure.
 
 </div>
+
