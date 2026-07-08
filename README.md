@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;AI+%26+Machine+Learning+Enthusiast;ASP.NET+Core+Developer;Building+Scalable+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Software+Engineer;.NET+Backend+Developer;Cloud-Native+Application+Builder;Azure+%7C+Docker+%7C+Kubernetes;React+%7C+Next.js+Learner" />
+
 
 <br><br>
 
