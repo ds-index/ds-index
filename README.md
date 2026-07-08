@@ -54,6 +54,7 @@ currently_learning:
 * Terraform
 * Cloud Architecture
 * Microservices Architecture
+* Redis
 * System Design
 * Design Patterns
 * Distributed Systems
