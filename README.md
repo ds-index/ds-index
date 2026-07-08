@@ -38,20 +38,29 @@ specialization:
   - Clean Code
   - Microservices
   - Typescript
+  - Nest.js
   - React
   - Next.js
-  - Azure & DevOps
+  - Azure
+  - DevOps
 
 currently_learning:
-  - Python
-  - Fast API
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - LLM Applications
-  - LangChain
-  - RAG Systems
-  - VectorDB
+
+* Azure Cloud
+* Kubernetes (K8s)
+* GitHub Actions
+* CI/CD Pipelines
+* Infrastructure as Code (IaC)
+* Terraform
+* Cloud Architecture
+* Microservices Architecture
+* System Design
+* Design Patterns
+* Distributed Systems
+* Observability & Monitoring
+* DevOps Practices
+* Infrastructure Engineering
+
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
