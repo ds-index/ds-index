@@ -92,10 +92,13 @@ mindset: "Build. Learn. Improve. Repeat."
 
 * ASP.NET Core
 * ASP.NET Web API
+* Minimal API
+* ASP.NET Core MVC
 * Entity Framework Core
 * Identity
 * Dapper
 * LINQ
+* Nest.JS
 * SQL Server
 * PostgreSQL
 * MongoDB
@@ -200,21 +203,18 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 📈 Engineering Progress
-
-```text
+📈 Engineering Progress
 Backend Engineering      ████████████████████ 95%
 Database Design          ██████████████████░░ 90%
 System Design            ████████████████░░░░ 80%
 
 Docker                   ███████████████░░░░░ 75%
 React & Next.js          ████████████░░░░░░░░ 60%
-Kubernetes               ████████████░░░░░░░░ 60%
 
 Azure Cloud              ███░░░░░░░░░░░░░░░░░ 15%
 GitHub Actions           ██░░░░░░░░░░░░░░░░░░ 10%
 Terraform                ██░░░░░░░░░░░░░░░░░░ 10%
-```
+Kubernetes               █░░░░░░░░░░░░░░░░░░░ 5%
 
 
 ---
