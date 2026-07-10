@@ -101,7 +101,8 @@ mindset: "Build. Learn. Improve. Repeat."
 * Identity
 * Dapper
 * LINQ
-* Nest.JS
+* FastAPI
+* Django
 * SQL Server
 * PostgreSQL
 * MongoDB
@@ -185,20 +186,7 @@ mindset: "Build. Learn. Improve. Repeat."
 * JavaScript
 * TypeScript
 * React
-* Next.js
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Frontend Architecture
-
-* Component-Based Design
-* Server-Side Rendering (SSR)
-* Static Site Generation (SSG)
-* API Integration
-* State Management
-* Responsive Design
+* Angular
 
 </td>
 </tr>
