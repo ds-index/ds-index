@@ -93,6 +93,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ### ⚡ Technologies
 
+* .NET
 * ASP.NET Core
 * ASP.NET Web API
 * Minimal API
@@ -102,7 +103,6 @@ mindset: "Build. Learn. Improve. Repeat."
 * Dapper
 * LINQ
 * FastAPI
-* Django
 * SQL Server
 * PostgreSQL
 * MongoDB
@@ -134,38 +134,75 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## ☁️ Cloud & DevOps
+## 🤖 Artificial Intelligence
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Cloud Technologies
+### 🧠 AI & Machine Learning
 
-* Microsoft Azure
-* Azure App Service
-* Azure Container Apps
-* Azure Kubernetes Service (AKS)
-* Azure Storage
-* Azure SQL Database
-* Azure Key Vault
-* Azure Monitor
+* Artificial Intelligence (AI)
+* Machine Learning (ML)
+* Deep Learning (DL)
+* Neural Networks
+* Large Language Models (LLMs)
+* Generative AI
+* Prompt Engineering
+* Fine-Tuning
+* Model Evaluation
+* Embeddings
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Infrastructure
+### ⚡ AI Technologies
+
+* Python
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* Pandas
+* NumPy
+* LangChain
+* LangGraph
+* OpenAI API
+* Hugging Face
+* Vector Databases
+* RAG (Retrieval-Augmented Generation)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ☁️ Platform & Infrastructure
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Cloud Platform
+
+* Microsoft Azure
+* Azure AI Services
+* Azure OpenAI
+* Azure Storage
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Infrastructure & Automation
 
 * Docker
 * Kubernetes
+* Redis
+* Git
 * GitHub Actions
 * CI/CD Pipelines
-* Infrastructure as Code (IaC)
-* Terraform
-* Monitoring & Logging
-* Container Orchestration
-* Cloud-Native Applications
 
 </td>
 </tr>
@@ -186,7 +223,19 @@ mindset: "Build. Learn. Improve. Repeat."
 * JavaScript
 * TypeScript
 * React
-* Angular
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 AI Applications
+
+* AI Chatbots
+* AI Assistants
+* Agentic Workflows
+* RAG Systems
+* Intelligent Automation
+* AI-Powered APIs
 
 </td>
 </tr>
@@ -196,18 +245,18 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ## 📈 Engineering Progress
 
-| Skill               | Level        |
-| ------------------- | ------------ |
-| Backend Engineering | Advanced     |
-| Database Design     | Advanced     |
-| System Design       | Advanced     |
-| Docker              | Intermediate |
-| React & Next.js     | Intermediate |
-| Azure Cloud         | Learning     |
-| GitHub Actions      | Learning     |
-| Terraform           | Learning     |
-| Kubernetes          | Learning     |
-
+| Skill                   | Level        |
+| ----------------------- | ------------ |
+| Backend Engineering     | Advanced     |
+| Database Design         | Advanced     |
+| System Design           | Advanced     |
+| Artificial Intelligence | Intermediate |
+| Machine Learning        | Intermediate |
+| Deep Learning           | Intermediate |
+| FastAPI                 | Intermediate |
+| Azure                   | Learning     |
+| Kubernetes              | Learning     |
+| AI Agents & RAG         | Learning     |
 
 ---
 
@@ -215,26 +264,26 @@ mindset: "Build. Learn. Improve. Repeat."
 
 * 🔹 Scalable Backend Systems
 * 🔹 Clean Architecture Projects
-* 🔹 Cloud-Native Applications
+* 🔹 AI-Powered Applications
+* 🔹 LLM & RAG Solutions
+* 🔹 AI Agents Development
 * 🔹 Microservices Development
 * 🔹 API Design & Development
-* 🔹 DevOps Automation
-* 🔹 Kubernetes & Containerized Workloads
 * 🔹 Distributed Systems
 
 ---
 
 ## 🎯 2026 Goals
 
-* ✅ Improve System Design Skills
-* ✅ Build Production-Ready ASP.NET Core Projects
-* 🚀 Master React & Next.js
-* 🚀 Master Azure Cloud Services
-* 🚀 Master Docker & Kubernetes
-* 🚀 Build End-to-End Cloud-Native Applications
-* 🚀 Learn Terraform & Infrastructure as Code
-* 🚀 Improve DevOps & CI/CD Skills
-* 🚀 Contribute to Open Source Projects
+* 🚀 Master Machine Learning & Deep Learning
+* 🚀 Build Production-Ready AI Applications
+* 🚀 Master LLM Engineering
+* 🚀 Design Advanced RAG Systems
+* 🚀 Build Autonomous AI Agents
+* 🚀 Master Azure AI Services
+* 🚀 Improve MLOps & Model Deployment Skills
+* 🚀 Contribute to Open Source AI Projects
+* 🚀 Build End-to-End AI Platforms
 
 ---
 
@@ -242,7 +291,9 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ### 💡 Philosophy
 
-> Building scalable, cloud-native applications with clean architecture, modern DevOps practices, and reliable infrastructure.
+> Building scalable backend systems and intelligent AI applications by combining clean architecture, modern software engineering, machine learning, and large language models.
+
+</div>
 
 </div>
 
