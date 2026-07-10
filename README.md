@@ -42,6 +42,7 @@ specialization:
   - Clean Code
   - Microservices
   - Fast API
+  - Django
   - Typescript
   - React
   - Azure
@@ -250,10 +251,11 @@ mindset: "Build. Learn. Improve. Repeat."
 | Backend Engineering     | Advanced     |
 | Database Design         | Advanced     |
 | System Design           | Advanced     |
-| Artificial Intelligence | Intermediate |
-| Machine Learning        | Intermediate |
-| Deep Learning           | Intermediate |
-| FastAPI                 | Intermediate |
+| Artificial Intelligence | Learning |
+| Machine Learning        | Learning |
+| Deep Learning           | Learning |
+| FastAPI                 | Basic |
+| Django                 | Basic |
 | Azure                   | Learning     |
 | Kubernetes              | Learning     |
 | AI Agents & RAG         | Learning     |
