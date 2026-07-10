@@ -246,21 +246,24 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ## 📈 Engineering Progress
 
-| Skill                   | Level        |
-| ----------------------- | ------------ |
-| Backend Engineering     | Advanced     |
-| Database Design         | Advanced     |
-| System Design           | Advanced     |
-| Artificial Intelligence | Learning |
-| Machine Learning        | Learning |
-| Deep Learning           | Learning |
-| FastAPI                 | Basic |
-| Django                 | Basic |
-| Azure                   | Learning     |
-| Kubernetes              | Learning     |
-| AI Agents & RAG         | Learning     |
+| Skill                                | Level    |
+| ------------------------------------ | -------- |
+| Backend Engineering                  | Advanced |
+| Database Design                      | Advanced |
+| System Design                        | Advanced |
+| Artificial Intelligence              | Learning |
+| Machine Learning                     | Learning |
+| Deep Learning                        | Learning |
+| Large Language Models (LLMs)         | Learning |
+| AI Agents                            | Learning |
+| RAG (Retrieval-Augmented Generation) | Learning |
+| FastAPI                              | Basic    |
+| Django                               | Basic    |
+| Azure                                | Learning |
+| Kubernetes                           | Learning |
 
 ---
+
 
 ## 🚀 Featured Areas
 
