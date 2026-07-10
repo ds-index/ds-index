@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Engineer;DevOps+%26+Cloud+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=AI+Backend+Engineer;Building+Intelligent+Applications;LLMs+RAG+%26+AI+Agents;Scalable+Backend+Systems;Machine+Learning+Journey" />
 
 
 <br><br>
