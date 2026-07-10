@@ -41,29 +41,30 @@ specialization:
   - Desing Patterns
   - Clean Code
   - Microservices
+  - Fast API
   - Typescript
-  - Nest.js
   - React
-  - Next.js
   - Azure
   - DevOps
 
 currently_learning:
   * Azure Cloud
-  * Kubernetes (K8s)
-  * GitHub Actions
-  * CI/CD Pipelines
-  * Infrastructure as Code (IaC)
-  * Terraform
-  * Cloud Architecture
   * Microservices Architecture
   * Redis
   * System Design
   * Design Patterns
   * Distributed Systems
-  * Observability & Monitoring
   * DevOps Practices
-  * Infrastructure Engineering
+  * Artificial Intelligence (AI)
+  * Machine Learning (ML)
+  * Deep Learning (DL)
+  * Large Language Models (LLMs)
+  * Retrieval-Augmented Generation (RAG)
+  * Prompt Engineering
+  * AI Agents
+  * FastAPI
+  * PyTorch
+  * TensorFlow
 
 
 mindset: "Build. Learn. Improve. Repeat."
@@ -76,7 +77,7 @@ mindset: "Build. Learn. Improve. Repeat."
 <div align="center">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nextjs,nestjs,azure,docker,kubernetes,git,redis,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,azure,docker,kubernetes,git,redis,postgres,mongodb" />
   <br /><br />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
