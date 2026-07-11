@@ -25,7 +25,7 @@ name: Arman
 
 role:
   * Full-Stack Engineer
-  * DevOps & Cloud Enthusiast
+  * AI Enthusiast
 
 
 specialization:
@@ -38,10 +38,9 @@ specialization:
   - Desing Patterns
   - Clean Code
   - Microservices
-  - Fast API
-  - Django
   - Typescript
   - React
+  - Next.js
   - Azure
   - DevOps
 
@@ -60,7 +59,6 @@ currently_learning:
   * Retrieval-Augmented Generation (RAG)
   * Prompt Engineering
   * AI Agents
-  * FastAPI
   * PyTorch
   * TensorFlow
 
@@ -75,7 +73,7 @@ mindset: "Build. Learn. Improve. Repeat."
 <div align="center">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,azure,docker,kubernetes,git,redis,postgres,mongodb,python,tensorflow,pytorch,typescript,react" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,azure,docker,kubernetes,git,redis,postgres,mongodb,python,tensorflow,pytorch,typescript,react,next.js" />
   <br /><br />
 </div>
 
