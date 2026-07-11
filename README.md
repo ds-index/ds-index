@@ -219,6 +219,8 @@ mindset: "Build. Learn. Improve. Repeat."
 * JavaScript
 * TypeScript
 * React
+* Next.js
+* Angular
 
 </td>
 
