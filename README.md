@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;Software+Architect+in+Progress;Clean+Architecture+%7C+DDD+%7C+CQRS;System+Design+%26+Distributed+Systems;Deepening+Knowledge+in+AI+ML+DL+and+LLMs" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;Software+Architect+in+Progress;Clean+Architecture+%7C+DDD+%7C+CQRS;System+Design+%26+Distributed+Systems;DevOps+%7C+Cloud+Computing+%7C+Golang" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
@@ -24,44 +23,40 @@
 name: Arman
 
 role:
-  * Full-Stack Engineer
-  * AI Enthusiast
-
+  * Backend Engineer
+  * DevOps & Cloud Enthusiast
 
 specialization:
   - ASP.NET Core
   - REST APIs
   - SQL Server
   - PostgreSQL
-  - MongoDb
+  - MongoDB
   - Clean Architecture
-  - Desing Patterns
+  - Design Patterns
   - Clean Code
   - Microservices
-  - Typescript
+  - TypeScript
   - React
   - Next.js
   - Azure
   - DevOps
 
 currently_learning:
+  * Golang
+  * Cloud Computing
   * Azure Cloud
-  * Microservices Architecture
-  * Redis
-  * System Design
-  * Design Patterns
+  * Kubernetes
+  * Infrastructure as Code (IaC)
+  * Terraform
+  * CI/CD Pipelines
+  * GitHub Actions
   * Distributed Systems
+  * System Design
   * DevOps Practices
-  * Artificial Intelligence (AI)
-  * Machine Learning (ML)
-  * Deep Learning (DL)
-  * Large Language Models (LLMs)
-  * Retrieval-Augmented Generation (RAG)
-  * Prompt Engineering
-  * AI Agents
-  * PyTorch
-  * TensorFlow
-
+  * Monitoring & Observability
+  * Prometheus
+  * Grafana
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
@@ -72,10 +67,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,azure,docker,kubernetes,git,redis,postgres,mongodb,python,tensorflow,pytorch,typescript,react,nextjs" />
-  <br /><br />
-</div>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,azure,docker,kubernetes,git,redis,postgres,mongodb,typescript,react,nextjs" />
 
 </div>
 
@@ -98,7 +90,6 @@ mindset: "Build. Learn. Improve. Repeat."
 * Identity
 * Dapper
 * LINQ
-* FastAPI
 * SQL Server
 * PostgreSQL
 * MongoDB
@@ -115,7 +106,7 @@ mindset: "Build. Learn. Improve. Repeat."
 ### 🏗 Architecture
 
 * Clean Architecture
-* Domain Driven Design (DDD)
+* Domain-Driven Design (DDD)
 * SOLID Principles
 * Design Patterns
 * CQRS
@@ -123,50 +114,6 @@ mindset: "Build. Learn. Improve. Repeat."
 * RESTful APIs
 * System Design
 * Event-Driven Architecture
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤖 Artificial Intelligence
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI & Machine Learning
-
-* Artificial Intelligence (AI)
-* Machine Learning (ML)
-* Deep Learning (DL)
-* Neural Networks
-* Large Language Models (LLMs)
-* Generative AI
-* Prompt Engineering
-* Fine-Tuning
-* Model Evaluation
-* Embeddings
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ AI Technologies
-
-* Python
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* Pandas
-* NumPy
-* LangChain
-* LangGraph
-* OpenAI API
-* Hugging Face
-* Vector Databases
-* RAG (Retrieval-Augmented Generation)
 
 </td>
 </tr>
@@ -183,9 +130,9 @@ mindset: "Build. Learn. Improve. Repeat."
 ### 🚀 Cloud Platform
 
 * Microsoft Azure
-* Azure AI Services
-* Azure OpenAI
+* Azure App Service
 * Azure Storage
+* Azure Container Apps
 
 </td>
 
@@ -195,10 +142,12 @@ mindset: "Build. Learn. Improve. Repeat."
 
 * Docker
 * Kubernetes
-* Redis
-* Git
 * GitHub Actions
 * CI/CD Pipelines
+* Terraform
+* Linux
+* Nginx
+* Monitoring & Observability
 
 </td>
 </tr>
@@ -226,14 +175,14 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <td width="50%" valign="top">
 
-### 🚀 AI Applications
+### 🚀 Development Workflow
 
-* AI Chatbots
-* AI Assistants
-* Agentic Workflows
-* RAG Systems
-* Intelligent Automation
-* AI-Powered APIs
+* Git & GitHub
+* Agile Development
+* API Integration
+* Software Architecture
+* Performance Optimization
+* Technical Documentation
 
 </td>
 </tr>
@@ -241,51 +190,56 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
-## 📈 Engineering Progress
+## 🤖 AI-Assisted Development
 
-| Skill                                | Level    |
-| ------------------------------------ | -------- |
-| Backend Engineering                  | Advanced |
-| Database Design                      | Advanced |
-| System Design                        | Advanced |
-| Artificial Intelligence              | Learning |
-| Machine Learning                     | Learning |
-| Deep Learning                        | Learning |
-| Large Language Models (LLMs)         | Learning |
-| AI Agents                            | Learning |
-| RAG (Retrieval-Augmented Generation) | Learning |
-| FastAPI                              | Basic    |
-| Django                               | Basic    |
-| Azure                                | Learning |
-| Kubernetes                           | Learning |
+* Leveraging AI tools to improve productivity
+* AI-assisted development and debugging
+* Accelerating research, learning, and problem-solving workflows
+* Using AI to enhance software development efficiency
 
 ---
 
+## 📈 Engineering Progress
+
+| Skill                      | Level    |
+| -------------------------- | -------- |
+| Backend Engineering        | Advanced |
+| Database Design            | Advanced |
+| System Design              | Advanced |
+| Golang                     | Learning |
+| DevOps                     | Learning |
+| Cloud Computing            | Learning |
+| Azure                      | Learning |
+| Kubernetes                 | Learning |
+| Terraform                  | Learning |
+| Monitoring & Observability | Learning |
+
+---
 
 ## 🚀 Featured Areas
 
 * 🔹 Scalable Backend Systems
 * 🔹 Clean Architecture Projects
-* 🔹 AI-Powered Applications
-* 🔹 LLM & RAG Solutions
-* 🔹 AI Agents Development
+* 🔹 Cloud-Native Applications
+* 🔹 DevOps & Automation
 * 🔹 Microservices Development
 * 🔹 API Design & Development
 * 🔹 Distributed Systems
+* 🔹 Infrastructure & Deployment
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Master Machine Learning & Deep Learning
-* 🚀 Build Production-Ready AI Applications
-* 🚀 Master LLM Engineering
-* 🚀 Design Advanced RAG Systems
-* 🚀 Build Autonomous AI Agents
-* 🚀 Master Azure AI Services
-* 🚀 Improve MLOps & Model Deployment Skills
-* 🚀 Contribute to Open Source AI Projects
-* 🚀 Build End-to-End AI Platforms
+* 🚀 Master Golang
+* 🚀 Strengthen DevOps Skills
+* 🚀 Gain Cloud Expertise
+* 🚀 Master Kubernetes
+* 🚀 Learn Terraform & Infrastructure as Code
+* 🚀 Build Production-Ready Cloud-Native Applications
+* 🚀 Improve CI/CD & Automation Skills
+* 🚀 Contribute to Open Source Projects
+* 🚀 Design Scalable Distributed Systems
 
 ---
 
@@ -293,9 +247,6 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ### 💡 Philosophy
 
-> Building scalable backend systems and intelligent AI applications by combining clean architecture, modern software engineering, machine learning, and large language models.
+> Building scalable backend systems and cloud-native applications through clean architecture, modern software engineering, and reliable infrastructure.
 
 </div>
-
-</div>
-
