@@ -155,6 +155,7 @@ mindset: "Build. Learn. Improve. Repeat."
 * JavaScript
 * HTML5
 * CSS3
+  </td>
 
 <td width="50%" valign="top">
 
