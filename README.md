@@ -58,7 +58,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,azure,docker,kubernetes,git,redis,postgres,mongodb,typescript,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,,typescript,Angular,go,azure,docker,kubernetes,git,redis,postgres,mongodb" />
 
 </div>
 
