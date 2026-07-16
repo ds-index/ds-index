@@ -271,6 +271,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 </div>
 
+---
 
 <div align="center">
 
