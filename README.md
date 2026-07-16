@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;Software+Architect+in+Progress;Clean+Architecture+%7C+DDD+%7C+CQRS;System+Design+%26+Distributed+Systems;DevOps+%7C+Cloud+Computing+%7C+Golang" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;.NET+%26+Angular+Developer;DevOps+%26+Cloud+Enthusiast" />
 
 <br><br>
 
