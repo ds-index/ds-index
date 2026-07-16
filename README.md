@@ -211,15 +211,14 @@ mindset: "Build. Learn. Improve. Repeat."
 | Skill                      | Level    |
 | -------------------------- | -------- |
 | Backend Engineering        | Intermediate |
-| Database Design            | Advanced |
-| System Design              | Advanced |
+| Database Design            | Intermediate |
+| System Design              | Intermediate |
+| Angular                    | Intermediate |
 | Golang                     | Learning |
 | DevOps                     | Learning |
 | Cloud Computing            | Learning |
 | Azure                      | Learning |
 | Kubernetes                 | Learning |
-| Terraform                  | Learning |
-| Monitoring & Observability | Learning |
 
 ---
 
