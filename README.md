@@ -110,35 +110,29 @@ mindset: "Build. Learn. Improve. Repeat."
 </tr>
 </table>
 
----
-
-## ☁️ Platform & Infrastructure
+## 🌱 Learning Journey
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Cloud Platform
+### 🐹 Golang
 
-* Microsoft Azure
-* Azure App Service
-* Azure Storage
-* Azure Container Apps
+* Go Fundamentals
+* Concurrency Patterns
+* REST API Development
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Infrastructure & Automation
+### ☁️ DevOps & Cloud
 
-* Docker
-* Kubernetes
-* GitHub Actions
 * CI/CD Pipelines
-* Terraform
-* Linux
-* Nginx
-* Monitoring & Observability
+* Docker
+* K8S
+* Microsoft Azure
+* Cloud-Native Applications
 
 </td>
 </tr>
@@ -146,23 +140,21 @@ mindset: "Build. Learn. Improve. Repeat."
 
 ---
 
+
 ## 🌐 Frontend Development
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ### 🎨 Frontend
 
+* TypeScript
+* Angular
+* RxJS
+* Angular Material
+* JavaScript
 * HTML5
 * CSS3
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Angular
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -194,7 +186,7 @@ mindset: "Build. Learn. Improve. Repeat."
 
 | Skill                      | Level    |
 | -------------------------- | -------- |
-| Backend Engineering        | Advanced |
+| Backend Engineering        | Intermediate |
 | Database Design            | Advanced |
 | System Design              | Advanced |
 | Golang                     | Learning |
