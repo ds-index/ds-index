@@ -68,109 +68,132 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚡ Technologies
+<h3>⚡ Backend Technologies</h3>
 
-* .NET
-* ASP.NET Core
-* ASP.NET Web API
-* Minimal API
-* ASP.NET Core MVC
-* Entity Framework Core
-* Identity
-* Dapper
-* LINQ
-* SQL Server
-* PostgreSQL
-* MongoDB
-* Redis
-* Docker
-* Kubernetes
-* Git
-* GitHub Actions
+<ul>
+  <li>.NET</li>
+  <li>ASP.NET Core</li>
+  <li>ASP.NET Core Web API</li>
+  <li>Minimal APIs</li>
+  <li>ASP.NET Core MVC</li>
+  <li>Entity Framework Core</li>
+  <li>Dapper</li>
+  <li>ASP.NET Core Identity</li>
+  <li>LINQ</li>
+  <li>SQL Server</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>Redis</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>Git & GitHub</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏗 Architecture
+<h3>🏗 Architecture & Design</h3>
 
-* Clean Architecture
-* Domain-Driven Design (DDD)
-* SOLID Principles
-* Design Patterns
-* CQRS
-* Microservices
-* RESTful APIs
-* System Design
-* Event-Driven Architecture
-
-</td>
-</tr>
-</table>
-
-## 🌱 Learning Journey
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐹 Golang
-
-* Go Fundamentals
-* Concurrency Patterns
-* REST API Development
+<ul>
+  <li>Clean Architecture</li>
+  <li>Domain-Driven Design (DDD)</li>
+  <li>SOLID Principles</li>
+  <li>Design Patterns</li>
+  <li>CQRS</li>
+  <li>Microservices Architecture</li>
+  <li>RESTful API Design</li>
+  <li>System Design</li>
+  <li>Event-Driven Architecture</li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
-
-### ☁️ DevOps & Cloud
-
-* CI/CD Pipelines
-* Docker
-* K8S
-* Microsoft Azure
-* Cloud-Native Applications
-
-</td>
 </tr>
 </table>
 
 ---
 
+## 🌱 Learning Journey
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🐹 Golang</h3>
+
+<ul>
+  <li>Go Fundamentals</li>
+  <li>Concurrency Patterns</li>
+  <li>REST API Development</li>
+  <li>Backend Services Development</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☁️ DevOps & Cloud</h3>
+
+<ul>
+  <li>CI/CD Pipelines</li>
+  <li>Microsoft Azure</li>
+  <li>Docker & Kubernetes</li>
+  <li>Cloud-Native Applications</li>
+  <li>Infrastructure Automation</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🌐 Frontend Development
 
 <table>
 <tr>
-<td width="50%" valign="top">
-### 🎨 Frontend
-
-* TypeScript
-* Angular
-* RxJS
-* Angular Material
-* JavaScript
-* HTML5
-* CSS3
-  </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Development Workflow
+<h3>🎨 Frontend Technologies</h3>
 
-* Git & GitHub
-* Agile Development
-* API Integration
-* Software Architecture
-* Performance Optimization
-* Technical Documentation
+<ul>
+  <li>Angular</li>
+  <li>TypeScript</li>
+  <li>RxJS</li>
+  <li>Angular Material</li>
+  <li>JavaScript</li>
+  <li>HTML5 & CSS3</li>
+</ul>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Frontend Practices</h3>
+
+<ul>
+  <li>Component-Based Architecture</li>
+  <li>API Integration</li>
+  <li>State Management</li>
+  <li>Responsive Design</li>
+  <li>Performance Optimization</li>
+  <li>Technical Documentation</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
+
+---
+
 
 ---
 
