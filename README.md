@@ -22,7 +22,8 @@
 name: Arman
 
 role:
-  * Backend Engineer
+  * Backend Engineer(.NET)
+  * Angular Developer
   * DevOps & Cloud Enthusiast
 
 specialization:
@@ -36,26 +37,17 @@ specialization:
   - Clean Code
   - Microservices
   - TypeScript
-  - React
-  - Next.js
+  - Angular
   - Azure
   - DevOps
 
 currently_learning:
-  * Golang
-  * Cloud Computing
-  * Azure Cloud
-  * Kubernetes
-  * Infrastructure as Code (IaC)
-  * Terraform
-  * CI/CD Pipelines
-  * GitHub Actions
-  * Distributed Systems
-  * System Design
-  * DevOps Practices
-  * Monitoring & Observability
-  * Prometheus
-  * Grafana
+  - Golang
+  - DevOps & CI/CD
+  - Microsoft Azure
+  - Software Architecture
+  - Distributed Systems
+  - Enterprise Application Development
 
 mindset: "Build. Learn. Improve. Repeat."
 ```
