@@ -251,6 +251,29 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
+### 📫 Connect With Me
+
+<a href="mailto:ds.limited.ar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ds-index">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+💡 *Always learning, always building.*
+
+</div>
+
+
+<div align="center">
+
 ### 💡 Philosophy
 
 > Building scalable backend systems and cloud-native applications through clean architecture, modern software engineering, and reliable infrastructure.
