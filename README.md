@@ -1,16 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Arman
+# 👋 Hi, I'm Arman
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Backend+Engineer;.NET+%26+Angular+Developer;DevOps+%26+Cloud+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=950&lines=.NET+%26+Golang+Backend+Engineer;Software+Architecture+%26+System+Design;Platform+Engineering+%26+Distributed+Systems" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,sqlserver,postgres,mongodb,redis,docker,kubernetes,terraform,azure,git" />
 
 </div>
 
@@ -18,240 +14,447 @@
 
 ## 🚀 About Me
 
+I'm a **Backend Engineer** focused on **.NET and Golang**, with a strong interest in **software architecture, distributed systems, and platform engineering**.
+
+My main engineering focus is designing and building backend systems that are:
+
+* Scalable
+* Maintainable
+* Reliable
+* Observable
+* Resilient
+* Production-ready
+
+I'm currently going deeper into **Platform Engineering and Distributed Systems**, exploring how software, infrastructure, and engineering platforms come together to support reliable systems at scale.
+
+I'm also **actively learning and going deeper into AI Infrastructure**, with a focus on understanding the infrastructure and distributed systems behind modern AI workloads.
+
+> **Backend Engineering → Software Architecture → Distributed Systems → Platform Engineering**
+
+---
+
+## 🧠 Engineering Focus
+
 ```yaml
-name: Arman
+primary_focus:
+  - Backend Engineering
+  - Software Architecture
+  - System Design
+  - Distributed Systems
+  - Platform Engineering
 
-role:
-  * Backend Engineer(.NET)
-  * Angular Developer
-  * DevOps & Cloud Enthusiast
+primary_languages:
+  - C#
+  - Go
 
-specialization:
+primary_backend_stack:
+  - .NET
   - ASP.NET Core
   - REST APIs
+  - gRPC
+  - Entity Framework Core
+  - Dapper
+  - LINQ
+
+software_architecture:
+  - Clean Architecture
+  - Domain-Driven Design
+  - SOLID Principles
+  - Design Patterns
+  - Modular Monoliths
+  - Microservices
+  - CQRS
+  - Event-Driven Architecture
+  - Distributed Systems
+  - System Design
+
+primary_database:
   - SQL Server
+
+additional_databases:
   - PostgreSQL
   - MongoDB
-  - Clean Architecture
-  - Design Patterns
-  - Clean Code
-  - Microservices
-  - TypeScript
-  - Angular
-  - Azure
-  - DevOps
+  - Redis
 
-currently_learning:
-  - Golang
-  - DevOps & CI/CD
+platform_engineering:
+  - Kubernetes
+  - Docker
+  - CI/CD
+  - Infrastructure as Code
+  - Cloud Platforms
+  - Observability
+  - Automation
+  - Developer Platforms
+
+cloud:
   - Microsoft Azure
-  - Software Architecture
-  - Distributed Systems
-  - Enterprise Application Development
 
-mindset: "Build. Learn. Improve. Repeat."
+currently_deepening:
+  - Distributed Systems
+  - Platform Engineering
+  - System Design
+  - Cloud-Native Architecture
+  - AI Infrastructure
 ```
 
 ---
 
-## 🛠 Tech Stack
+# 🏗️ Software Architecture & Engineering
+
+One of my main interests is **software architecture** — understanding how to design systems that remain maintainable and reliable as they grow.
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design
+* SOLID Principles
+* Design Patterns
+* Modular Architecture
+* Layered Architecture
+* Modular Monoliths
+* Microservices
+* CQRS
+* Event-Driven Architecture
+* API Design
+* System Design
+
+### Engineering Principles
+
+* Separation of Concerns
+* Dependency Inversion
+* Loose Coupling
+* High Cohesion
+* Maintainability
+* Testability
+* Scalability
+* Reliability
+* Resilience
+* Observability
+
+I'm particularly interested in the transition from **well-designed software architecture** to **large-scale distributed systems**.
+
+---
+
+# ⚡ Backend Engineering
+
+My primary development focus is backend engineering with **.NET and Golang**.
+
+### .NET
+
+* C#
+* .NET
+* ASP.NET Core
+* ASP.NET Core Web API
+* Minimal APIs
+* Entity Framework Core
+* Dapper
+* LINQ
+* ASP.NET Core Identity
+* REST API Design
+* gRPC
+* Background Services
+
+### Golang
+
+* Go
+* Goroutines & Channels
+* Concurrency
+* Context Management
+* REST APIs
+* gRPC
+* Backend Services
+* Concurrent Services
+* Distributed Service Development
+
+### Backend Engineering Interests
+
+* High-performance APIs
+* Service-oriented architectures
+* Asynchronous processing
+* Background workers
+* Distributed communication
+* Caching
+* Resilience
+* Fault tolerance
+* Observability
+* Performance optimization
+
+---
+
+# 🌐 Distributed Systems
+
+I'm currently going deeper into **Distributed Systems** and the engineering challenges that appear when applications evolve from individual services into distributed platforms.
+
+### Areas I'm Exploring
+
+* Distributed communication
+* Service-to-service communication
+* gRPC
+* Message-driven systems
+* Event-driven architecture
+* Asynchronous processing
+* Distributed caching
+* Data consistency
+* Fault tolerance
+* Failure handling
+* Retries & timeouts
+* Idempotency
+* Scalability
+* Availability
+* Resilience
+* Observability
+* Distributed tracing
+
+I'm especially interested in understanding:
+
+> **How distributed systems fail, how they recover, and how they scale.**
+
+---
+
+# ☁️ Platform Engineering
+
+A major part of my current engineering journey is **Platform Engineering**.
+
+I'm interested in building platforms and infrastructure that make it easier for engineering teams to **develop, deploy, operate, and scale software reliably**.
+
+### Platform Engineering
+
+* Kubernetes
+* Docker
+* CI/CD
+* Infrastructure as Code
+* Developer Platforms
+* Internal Developer Platforms
+* Deployment Automation
+* Service Configuration
+* Secrets Management
+* Observability
+* Infrastructure Automation
+* Cloud-Native Architecture
+
+### DevOps & Infrastructure
+
+* GitHub Actions
+* Azure DevOps
+* Docker
+* Kubernetes
+* Terraform
+* CI/CD Pipelines
+* Containerized Applications
+* Cloud Infrastructure
+* Infrastructure Automation
+
+My focus is gradually moving from simply **deploying applications** toward understanding and building the **platforms that run those applications**.
+
+---
+
+# 🗄️ Database Engineering
+
+### 🥇 Primary Database
+
+**Microsoft SQL Server**
+
+My primary database experience and focus is around **SQL Server**, including:
+
+* Relational Database Design
+* Query Optimization
+* Indexing
+* Transactions
+* Stored Procedures
+* Database Performance
+* Data Modeling
+* Entity Framework Core
+* Dapper
+* SQL Optimization
+
+### 🔹 Additional Technologies
+
+I also work with and explore:
+
+* PostgreSQL
+* MongoDB
+* Redis
+
+These technologies are secondary to my primary focus on **SQL Server and relational database engineering**.
+
+---
+
+# 🤖 AI Infrastructure — Currently Learning
+
+I'm currently **learning and going deeper into AI Infrastructure**.
+
+This is an evolving area of my engineering journey rather than my primary specialization today.
+
+I'm particularly interested in understanding how modern AI workloads are **deployed, served, scaled, and operated in production environments**.
+
+### Currently Exploring
+
+* AI Infrastructure
+* ML Infrastructure
+* GPU Infrastructure
+* Model Serving
+* Inference Systems
+* Distributed AI Workloads
+* AI Platforms
+* Kubernetes for AI workloads
+* Containerized AI workloads
+* Scalable inference
+* AI workload orchestration
+* Observability for AI systems
+
+My goal is to build a strong understanding of the infrastructure layer behind modern AI systems and eventually connect this knowledge with my background in:
+
+**Backend Engineering + Distributed Systems + Platform Engineering**
+
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,angular,go,azure,docker,kubernetes,git,redis,postgres,mongodb" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,go,typescript" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+
+<br><br>
+
+### Cloud & Platform
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform" />
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 
 </div>
 
 ---
 
-## 💻 Backend Engineering
+# 🧭 My Engineering Path
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚡ Backend Technologies</h3>
-
-<ul>
-  <li>.NET</li>
-  <li>ASP.NET Core</li>
-  <li>ASP.NET Core Web API</li>
-  <li>Minimal APIs</li>
-  <li>ASP.NET Core MVC</li>
-  <li>Entity Framework Core</li>
-  <li>Dapper</li>
-  <li>ASP.NET Core Identity</li>
-  <li>LINQ</li>
-  <li>SQL Server</li>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-  <li>Redis</li>
-  <li>Docker</li>
-  <li>Kubernetes</li>
-  <li>Git & GitHub</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏗 Architecture & Design</h3>
-
-<ul>
-  <li>Clean Architecture</li>
-  <li>Domain-Driven Design (DDD)</li>
-  <li>SOLID Principles</li>
-  <li>Design Patterns</li>
-  <li>CQRS</li>
-  <li>Microservices Architecture</li>
-  <li>RESTful API Design</li>
-  <li>System Design</li>
-  <li>Event-Driven Architecture</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
+```text
+                Software Engineering
+                         │
+                         ▼
+                 Backend Engineering
+                         │
+                ┌────────┴────────┐
+                │                 │
+              .NET               Go
+                │                 │
+                └────────┬────────┘
+                         │
+                         ▼
+               Software Architecture
+                         │
+                System Design & DDD
+                         │
+                         ▼
+                Distributed Systems
+                         │
+                         ▼
+                Platform Engineering
+                         │
+             ┌───────────┴───────────┐
+             │                       │
+         Kubernetes              Cloud / IaC
+             │                       │
+             └───────────┬───────────┘
+                         │
+                         ▼
+                  AI Infrastructure
+                    (Learning)
+```
 
 ---
 
-## 🌱 Learning Journey
+# 🎯 Current Direction
 
-<table>
-<tr>
+My current engineering direction is centered around four connected areas:
 
-<td width="50%" valign="top">
+### 01 — Backend Engineering
 
-<h3>🐹 Golang</h3>
+Building reliable and maintainable backend services using **.NET and Golang**.
 
-<ul>
-  <li>Go Fundamentals</li>
-  <li>Concurrency Patterns</li>
-  <li>REST API Development</li>
-  <li>Backend Services Development</li>
-</ul>
+### 02 — Software Architecture
 
-</td>
+Designing systems using strong architectural principles, patterns, and engineering practices.
 
-<td width="50%" valign="top">
+### 03 — Distributed Systems & Platform Engineering
 
-<h3>☁️ DevOps & Cloud</h3>
+Understanding how large-scale systems operate and building platforms that make them easier to deploy, operate, and scale.
 
-<ul>
-  <li>CI/CD Pipelines</li>
-  <li>Microsoft Azure</li>
-  <li>Docker & Kubernetes</li>
-  <li>Cloud-Native Applications</li>
-  <li>Infrastructure Automation</li>
-</ul>
+### 04 — AI Infrastructure
 
-</td>
-
-</tr>
-</table>
+Learning and going deeper into the infrastructure required to run **modern AI workloads at scale**.
 
 ---
 
-## 🌐 Frontend Development
+# 🚀 What I'm Building Toward
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎨 Frontend Technologies</h3>
-
-<ul>
-  <li>Angular</li>
-  <li>TypeScript</li>
-  <li>RxJS</li>
-  <li>Angular Material</li>
-  <li>JavaScript</li>
-  <li>HTML5 & CSS3</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Frontend Practices</h3>
-
-<ul>
-  <li>Component-Based Architecture</li>
-  <li>API Integration</li>
-  <li>State Management</li>
-  <li>Responsive Design</li>
-  <li>Performance Optimization</li>
-  <li>Technical Documentation</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
+* 🔹 Production-grade backend systems
+* 🔹 Scalable software architectures
+* 🔹 Distributed systems
+* 🔹 Cloud-native platforms
+* 🔹 Kubernetes-based platforms
+* 🔹 Internal Developer Platforms
+* 🔹 Infrastructure automation
+* 🔹 Reliable deployment systems
+* 🔹 Observable and resilient services
+* 🔹 AI infrastructure
+* 🔹 Distributed AI workloads
 
 ---
 
+# 📚 2026 Learning Goals
+
+* 🚀 Deepen **.NET backend engineering**
+* 🚀 Become stronger with **Golang**
+* 🚀 Deepen knowledge of **Software Architecture**
+* 🚀 Master **Distributed Systems concepts**
+* 🚀 Build stronger **System Design** skills
+* 🚀 Go deeper into **Platform Engineering**
+* 🚀 Master **Kubernetes**
+* 🚀 Improve **Terraform & Infrastructure as Code**
+* 🚀 Build production-grade **CI/CD platforms**
+* 🚀 Strengthen **Cloud Architecture**
+* 🚀 Learn more about **AI Infrastructure**
+* 🚀 Explore **GPU infrastructure and model serving**
+* 🚀 Understand scalable **AI inference systems**
 
 ---
 
-## 🤖 AI-Assisted Development
+# 💡 Engineering Philosophy
 
-* Leveraging AI tools to improve productivity
-* AI-assisted development and debugging
-* Accelerating research, learning, and problem-solving workflows
-* Using AI to enhance software development efficiency
+> **Don't just build the service. Understand the system around it.**
 
----
+I enjoy learning how software behaves under:
 
-## 📈 Engineering Progress
+**Scale → Failure → Concurrency → Distribution → Automation**
 
-| Skill                      | Level    |
-| -------------------------- | -------- |
-| Backend Engineering        | Intermediate |
-| Database Design            | Intermediate |
-| System Design              | Intermediate |
-| Angular                    | Intermediate |
-| Golang                     | Learning |
-| DevOps                     | Learning |
-| Cloud Computing            | Learning |
-| Azure                      | Learning |
-| Kubernetes                 | Learning |
+And I believe strong engineering comes from understanding both sides of the equation:
+
+**Software Architecture + Infrastructure**
 
 ---
 
-## 🚀 Featured Areas
-
-* 🔹 Scalable Backend Systems
-* 🔹 Clean Architecture Projects
-* 🔹 Cloud-Native Applications
-* 🔹 DevOps & Automation
-* 🔹 Microservices Development
-* 🔹 API Design & Development
-* 🔹 Distributed Systems
-* 🔹 Infrastructure & Deployment
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Master Golang
-* 🚀 Strengthen DevOps Skills
-* 🚀 Gain Cloud Expertise
-* 🚀 Master Kubernetes
-* 🚀 Learn Terraform & Infrastructure as Code
-* 🚀 Build Production-Ready Cloud-Native Applications
-* 🚀 Improve CI/CD & Automation Skills
-* 🚀 Contribute to Open Source Projects
-* 🚀 Design Scalable Distributed Systems
-
----
+## 📫 Connect With Me
 
 <div align="center">
-
-### 📫 Connect With Me
 
 <a href="mailto:ds.limited.ar@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -261,13 +464,13 @@ mindset: "Build. Learn. Improve. Repeat."
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/arman-ds-b3b967291?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/arman-ds-b3b967291">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
-💡 *Always learning, always building.*
+**Always learning. Always building. Going deeper into systems.**
 
 </div>
 
@@ -275,8 +478,8 @@ mindset: "Build. Learn. Improve. Repeat."
 
 <div align="center">
 
-### 💡 Philosophy
+### 🧩
 
-> Building scalable backend systems and cloud-native applications through clean architecture, modern software engineering, and reliable infrastructure.
+**Backend Engineering · Software Architecture · Distributed Systems · Platform Engineering**
 
 </div>
