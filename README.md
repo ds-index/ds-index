@@ -6,12 +6,6 @@
 
 <br><br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=950&lines=.NET+%26+Golang+Backend+Engineer;Software+Architecture+%26+System+Design;Platform+Engineering+%26+Distributed+Systems" />
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,mongodb,redis,docker,kubernetes,terraform,azure,git" />
 
 <br><br>
